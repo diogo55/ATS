@@ -1,0 +1,2500 @@
+registar condutor "Florenca_Ribeiro@alunos.uminho.pt" "Florenca Ribeiro" "myhmock" "Rua Miguel Bombarda, 598, 2830-089 Barreiro" 1955-07-09 86;
+registar veiculo "11-YY-41" "Carrinha" "Razoavel" (34.7, 7.0);
+ 
+registar cliente "JaniqueAmorim@alunos.uminho.pt" "Janique Amorim" "jzgnmlxkiaqrfegq" ", 1472, 4730-455 Caminho da Azenha" 1972-12-11 (11.9, 98.4);
+
+registar empresa "Primavera Taxi" "x";
+
+login "Florenca_Ribeiro@alunos.uminho.pt" "myhmock";
+logout;
+
+registar condutor "DialinaSoares@sapo.pt" "Dialina Soares" "ybjhbencnvfddcl" "Rua do Picoto, 1409, 4405-689 Vila Nova de Gaia" 1967-08-09 83 "Primavera Taxi";
+
+login "Florenca_Ribeiro@alunos.uminho.pt" "myhmock";
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+login "Florenca_Ribeiro@alunos.uminho.pt" "myhmock";
+logout;
+
+registar condutor "IagGaspar@sapo.pt" "Iag Gaspar" "odqjqtpzcnzugqmhzqzlrejnopabyt" "Rua de Angola, 372, 4470-239 Maia" 1956-05-01 41;
+registar veiculo "CN-73-69" "Carro" "Razoavel" (25.9, 63.8);
+ 
+registar condutor "RuteNascimento@hotmail.com" "Rute Nascimento" "rjkeuyxmogkmagzdpeudhwkw" "Travessa da Fonte do Russo, 1143, 4750-467 Galegos (Santa Maria)" 1991-08-21 75 "Primavera Taxi";
+
+registar condutor "Jeni.Simoes@sapo.pt" "Jeni Simoes" "mhvb" "Rua dos Mouchinhos, 1355, 4650-728 Varziela" 1989-12-11 49;
+registar veiculo "39-52-AT" "Carrinha" "Mau" (62.9, 46.3);
+ 
+login "Jeni.Simoes@sapo.pt" "mhvb";
+alterar disponibilidade ;
+logout;
+
+registar empresa "Taxi Independente" "p";
+
+login "IagGaspar@sapo.pt" "odqjqtpzcnzugqmhzqzlrejnopabyt";
+logout;
+
+login "JaniqueAmorim@alunos.uminho.pt" "jzgnmlxkiaqrfegq";
+logout;
+
+login "Primavera Taxi" "x";
+registar veiculo "00-PH-43" "Carrinha" "Muito Bom" (12.2, 45.7);
+ logout;
+
+registar condutor "CarolJesus@gmail.com" "Carol Jesus" "bgkfgzhfwlaipabuz" "Travessa dos Marrafoes, 493, 4505-558 Lobao" 1988-02-23 75;
+registar veiculo "OA-62-23" "Carrinha" "Razoavel" (7.6, 11.6);
+ 
+registar empresa "Grilo Taxi" "xoyrlefidodpoxjpjfmfwfmfz";
+
+login "Florenca_Ribeiro@alunos.uminho.pt" "myhmock";
+alterar disponibilidade ;
+logout;
+
+registar cliente "DionildeDomingues@hotmail.com" "Dionilde Domingues" "ehkdmkoepmuctjhntwuizw" "Rua do Areal, 1831, 3465-096 Campo de Besteiros" 1957-09-04 (62.6, 42.1);
+
+login "JaniqueAmorim@alunos.uminho.pt" "jzgnmlxkiaqrfegq";
+logout;
+
+registar cliente "Carin.Martins@hotmail.com" "Carin Martins" "ewg" "Rua do Arco de Teire, 1097, 4830-296 Garfe" 1994-10-15 (49.7, 41.9);
+
+login "DionildeDomingues@hotmail.com" "ehkdmkoepmuctjhntwuizw";
+solicitar (26.4, 85.4);
+solicitar (80.4, 49.9);
+solicitar (14.2, 8.0);
+logout;
+
+login "Grilo Taxi" "xoyrlefidodpoxjpjfmfwfmfz";
+registar veiculo "78-93-BY" "Helicoptero" "Muito Bom" (85.6, 96.9);
+ logout;
+
+login "JaniqueAmorim@alunos.uminho.pt" "jzgnmlxkiaqrfegq";
+solicitar (20.7, 90.7);
+logout;
+
+login "Primavera Taxi" "x";
+logout;
+
+registar condutor "Helda.Castro@hotmail.com" "Helda Castro" "fbtyxcuufergmjuor" "Rua da Nazare, 1006, 9500-513 Faja de Cima" 1995-09-29 60 "Primavera Taxi";
+
+registar empresa "Comando Taxi" "hsavbtzucunddbi";
+
+registar cliente "Ferrer.Amaral@sapo.pt" "Ferrer Amaral" "egeelecbepy" "Rua do Carvalhal, 868, 4890-483 Lordelo" 1962-06-09 (89.8, 11.1);
+
+registar cliente "Auxilia_Almeida@gmail.com" "Auxilia Almeida" "szpozonvdzvxutwbjjauc" "Rua da Madressilva, 58, 2735-031 Agualva-Cacem" 1964-01-09 (89.3, 81.5);
+
+registar condutor "Anita.Brito@alunos.uminho.pt" "Anita Brito" "lkqbqnbnz" "Rua de Leiros, 506, 4620-253 Lustosa" 1977-01-22 19;
+registar veiculo "95-OT-51" "Carro" "Mau" (80.4, 36.4);
+ 
+login "Comando Taxi" "hsavbtzucunddbi";
+logout;
+
+login "Auxilia_Almeida@gmail.com" "szpozonvdzvxutwbjjauc";
+solicitar (51.3, 25.5);
+logout;
+
+login "Carin.Martins@hotmail.com" "ewg";
+logout;
+
+registar empresa "Motor Taxi" "doscrwbllvonoyeayixntzumd";
+
+registar condutor "Jamila_Miranda@sapo.pt" "Jamila Miranda" "hdymggxzcnrvh" "Largo da Igreja, 403, 2620-100 Povoa de Santo Adriao" 1973-09-17 49;
+registar veiculo "CE-09-10" "Mota" "Muito Bom" (51.5, 46.6);
+ 
+registar condutor "Cristele-Melo@alunos.uminho.pt" "Cristele Melo" "oojbby" "Rua Quinta dos Beliscos, 510, 2820-527 Charneca de Caparica" 1972-02-17 46 "Motor Taxi";
+
+login "Primavera Taxi" "x";
+logout;
+
+registar empresa "Primavera Taxi" "eyqsk";
+
+login "IagGaspar@sapo.pt" "odqjqtpzcnzugqmhzqzlrejnopabyt";
+alterar disponibilidade ;
+logout;
+
+login "JaniqueAmorim@alunos.uminho.pt" "jzgnmlxkiaqrfegq";
+logout;
+
+registar cliente "CesarioSilva@gmail.com" "Cesario Silva" "shqlaqvsugluvyvkgfmbboycvuhd" "Rua do Lameiro, 9, 9630-221 Algarvia" 1961-02-26 (100.9, 86.8);
+
+registar condutor "Iasmin-Esteves@gmail.com" "Iasmin Esteves" "gqlrezahmykqthsrnxopuqceftfl" "Praceta dos Algarvios, 813, 2835-041 Baixa da Banheira" 1957-10-11 94;
+registar veiculo "15-87-CD" "Carro" "Muito Bom" (29.9, 1.4);
+ 
+registar condutor "DaniaCruz@hotmail.com" "Dania Cruz" "tziszyspyovazkfgqd" "Rua Dom Afonso de Albuquerque, 1540, 2670-636 Bucelas" 2000-01-27 20 "Motor Taxi";
+
+registar cliente "Iara.Pereira@gmail.com" "Iara Pereira" "ckkncikgufvoidzogfwyeopa" "Travessa Laranjal, 527, 9020-362 Funchal" 1956-02-28 (6.5, 30.0);
+
+registar condutor "Guterre_Magalhaes@sapo.pt" "Guterre Magalhaes" "ytryvyjuypqgzcyfnfm" "Rua Miguel Torga, 882, 2870-404 Montijo" 1993-12-15 84;
+registar veiculo "85-51-LN" "Carro" "Razoavel" (14.9, 34.4);
+ 
+registar cliente "SilvianaAlmeida@alunos.uminho.pt" "Silviana Almeida" "dgvdhwwtkucbybwfotvqwpx" "Travessa Jornal da Marinha Grande, 936, 2430-111 Embra" 1990-06-25 (13.8, 84.6);
+
+login "JaniqueAmorim@alunos.uminho.pt" "jzgnmlxkiaqrfegq";
+solicitar (80.7, 96.4);
+logout;
+
+registar condutor "Quevin.Batista@hotmail.com" "Quevin Batista" "rpaqgpvdtiv" ", 1970, 7630-372 Barreirinho" 1974-04-10 55 "Comando Taxi";
+
+login "Ferrer.Amaral@sapo.pt" "egeelecbepy";
+logout;
+
+registar empresa "Taxi Suco" "meepadjizsdfvzlbdxfcarn";
+
+registar cliente "Aleta-Cardoso@alunos.uminho.pt" "Aleta Cardoso" "dxkmhntdgvrcoypvddpaczpzq" "Rua Doutor Parada Leitao, 265, 3420-326 Tabua" 1994-05-13 (23.9, 23.1);
+
+registar condutor "Abilio.Faria@hotmail.com" "Abilio Faria" "qrjdxj" "Rua Esquerda, 164, 2350-268 Vale da Serra" 1972-07-13 48;
+registar veiculo "72-BC-70" "Carro" "Muito Mau" (67.7, 76.9);
+ 
+login "JaniqueAmorim@alunos.uminho.pt" "jzgnmlxkiaqrfegq";
+solicitar (83.8, 34.0);
+logout;
+
+login "SilvianaAlmeida@alunos.uminho.pt" "dgvdhwwtkucbybwfotvqwpx";
+logout;
+
+registar condutor "Dimas_Magalhaes@alunos.uminho.pt" "Dimas Magalhaes" "mfeounbnumwmptaboekzajcr" "Caminho de Sandomil, 1830, 3405-251 Chamusca da Beira" 1997-02-26 87 "Taxi Suco";
+
+login "Grilo Taxi" "xoyrlefidodpoxjpjfmfwfmfz";
+logout;
+
+registar condutor "Helia_Tavares@alunos.uminho.pt" "Helia Tavares" "npvarnn" "Rua Alecrim, 1815, 2540-596 Columbeira" 1968-11-25 40;
+registar veiculo "58-GI-14" "Helicoptero" "Bom" (52.0, 12.6);
+ 
+registar cliente "aquila.Cruz@alunos.uminho.pt" "aquila Cruz" "il" ", 876, 4690-898 Pinheiro" 1974-05-15 (10.8, 85.2);
+
+registar condutor "Carmorinda_Matias@hotmail.com" "Carmorinda Matias" "yydmmsgkxpjenspg" ", 963, 2100-047 Monte da Gravinha" 1986-10-12 48;
+registar veiculo "01-48-BZ" "Carro" "Bom" (92.5, 36.6);
+ 
+login "Motor Taxi" "doscrwbllvonoyeayixntzumd";
+logout;
+
+login "DionildeDomingues@hotmail.com" "ehkdmkoepmuctjhntwuizw";
+solicitar (18.8, 80.8);
+logout;
+
+registar condutor "Santos-Carvalho@alunos.uminho.pt" "Santos Carvalho" "leqptz" "Rua Pedro Juliao, 677, 2640-518 Mafra" 1963-04-22 77;
+registar veiculo "JF-79-14" "Carrinha" "Bom" (21.2, 2.8);
+ 
+registar empresa "Sr Taxi" "ptyqeaxvyfbovc";
+
+registar condutor "Ernani_Abreu@alunos.uminho.pt" "Ernani Abreu" "jifsmdkruxezzhnokuyiavoj" ", 1884, 7630-531 Monte Nascedios" 1956-11-18 12;
+registar veiculo "EE-49-17" "Helicoptero" "Razoavel" (32.2, 23.0);
+ 
+registar condutor "Arcanjo_Vicente@alunos.uminho.pt" "Arcanjo Vicente" "e" "Rua da Quinta de Celeiro, 2286, 4750-412 Aborim" 1960-07-07 25;
+registar veiculo "98-WT-91" "Carro" "Razoavel" (8.7, 29.7);
+ 
+registar empresa "Taxi Cidade" "webha";
+
+login "Comando Taxi" "hsavbtzucunddbi";
+logout;
+
+registar condutor "Viviane_Amorim@alunos.uminho.pt" "Viviane Amorim" "mzgvwuocehmtyyhumgreyfwl" "Travessa da Tenda, 1838, 2715-349 Negrais" 1963-10-21 51;
+registar veiculo "57-QP-62" "Carro" "Muito Mau" (39.5, 57.0);
+ 
+login "Aleta-Cardoso@alunos.uminho.pt" "dxkmhntdgvrcoypvddpaczpzq";
+logout;
+
+login "aquila.Cruz@alunos.uminho.pt" "il";
+logout;
+
+login "Abilio.Faria@hotmail.com" "qrjdxj";
+logout;
+
+login "Primavera Taxi" "x";
+registar veiculo "FV-78-54" "Carro" "Razoavel" (74.8, 17.4);
+ registar veiculo "64-NF-70" "Helicoptero" "Muito Bom" (0.6, 61.3);
+ logout;
+
+registar condutor "Alamiro.Ribeiro@alunos.uminho.pt" "Alamiro Ribeiro" "xpnsrlwfvvmieppfwfofkjnjvgxp" "Travessa do Xico Rouxinol, 2079, 7750-356 Mertola" 1973-07-09 98;
+registar veiculo "78-25-UL" "Carro" "Mau" (39.4, 22.5);
+ 
+registar cliente "BriciaTavares@hotmail.com" "Bricia Tavares" "pxswn" "Rua Mario Cesariny, 1183, 4760-010 Vila Nova de Famalicao" 1968-12-16 (89.2, 49.9);
+
+registar empresa "Redwood Taxi" "xfckuohfftbydjivadmqarad";
+
+login "Auxilia_Almeida@gmail.com" "szpozonvdzvxutwbjjauc";
+solicitar (15.3, 49.9);
+solicitar (39.0, 65.1);
+solicitar (88.5, 84.2);
+logout;
+
+registar condutor "Abelardo-Neves@hotmail.com" "Abelardo Neves" "jqbb" ", 1268, 4980-414 Landim" 1975-04-30 61;
+registar veiculo "25-YJ-37" "Mota" "Mau" (18.0, 31.6);
+ 
+registar condutor "Aline-Barbosa@gmail.com" "Aline Barbosa" "erhfqcjlzblmew" "Rua Vale da Azinheira, 233, 2485-152 Mira de Aire" 1972-11-16 42;
+registar veiculo "42-UD-94" "Carrinha" "Razoavel" (98.6, 46.9);
+ 
+registar condutor "LenioCardoso@alunos.uminho.pt" "Lenio Cardoso" "aplgczlihhtmzhd" "Estrada de a-dos-Loucos, 2334, 2600-428 Alhandra" 1986-01-25 81 "Sr Taxi";
+
+login "Iasmin-Esteves@gmail.com" "gqlrezahmykqthsrnxopuqceftfl";
+alterar disponibilidade ;
+logout;
+
+login "Ernani_Abreu@alunos.uminho.pt" "jifsmdkruxezzhnokuyiavoj";
+logout;
+
+login "Ferrer.Amaral@sapo.pt" "egeelecbepy";
+solicitar (82.6, 40.1);
+solicitar (6.9, 30.7);
+logout;
+
+registar condutor "LucenaBatista@gmail.com" "Lucena Batista" "dtffomhwkkdlbdduqxuktqovmifej" "Rua do Barroco, 751, 3105-104 agua Formosa" 1984-01-07 10;
+registar veiculo "06-NY-67" "Carro" "Bom" (44.7, 70.8);
+ 
+registar condutor "Jacome-Figueiredo@gmail.com" "Jacome Figueiredo" "jt" "Rua do MFA, 620, 7830-517 Vale de Vargo" 1984-12-03 61;
+registar veiculo "JM-51-55" "Carro" "Muito Bom" (55.0, 54.5);
+ 
+registar condutor "Especiosa-Azevedo@hotmail.com" "Especiosa Azevedo" "mzxptwvmrf" "Rua Nova dos Pedreiras, 643, 4400-523 Vila Nova de Gaia" 1993-04-06 99;
+registar veiculo "88-SF-39" "Carrinha" "Muito Bom" (44.7, 50.9);
+ 
+registar condutor "Leolina-Vieira@gmail.com" "Leolina Vieira" "mbpef" ", 1575, 7700-201 Candenilhas" 1969-02-02 14;
+registar veiculo "17-HB-08" "Carrinha" "Mau" (62.9, 3.3);
+ 
+registar condutor "Heloisa.Vicente@sapo.pt" "Heloisa Vicente" "deqtmxianzl" "Rua da Fonte da Bica, 2356, 2065-333 Manique do Intendente" 1964-05-22 83;
+registar veiculo "20-46-QM" "Carrinha" "Muito Mau" (29.5, 48.6);
+ 
+registar condutor "Marilda-Nascimento@hotmail.com" "Marilda Nascimento" "fb" "Rua da Cova do Coelho, 2032, 2635-231 Francos" 2000-10-09 11;
+registar veiculo "JF-10-58" "Mota" "Razoavel" (14.9, 6.9);
+ 
+registar cliente "Antelmo.Baptista@sapo.pt" "Antelmo Baptista" "rggynkhlkjedof" "Rua Casal da Padeira, 187, 2670-348 Loures" 1964-08-07 (92.1, 77.7);
+
+login "Primavera Taxi" "x";
+registar veiculo "14-YP-54" "Carro" "Razoavel" (14.6, 88.6);
+ registar veiculo "38-AV-24" "Carro" "Mau" (3.9, 82.7);
+ logout;
+
+login "Carin.Martins@hotmail.com" "ewg";
+solicitar (55.0, 69.2);
+logout;
+
+login "Iara.Pereira@gmail.com" "ckkncikgufvoidzogfwyeopa";
+solicitar (10.2, 87.5);
+logout;
+
+login "CarolJesus@gmail.com" "bgkfgzhfwlaipabuz";
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+registar condutor "erico-Alves@alunos.uminho.pt" "erico Alves" "cvohxryeiqwiovbcmbhcuwhlft" "Rua Bouca da Forca, 1686, 4600-254 Amarante" 1973-05-29 52;
+registar veiculo "94-96-QG" "Carro" "Muito Bom" (63.4, 92.2);
+ 
+login "CarolJesus@gmail.com" "bgkfgzhfwlaipabuz";
+logout;
+
+login "Antelmo.Baptista@sapo.pt" "rggynkhlkjedof";
+logout;
+
+login "Taxi Suco" "meepadjizsdfvzlbdxfcarn";
+registar veiculo "BF-68-72" "Carrinha" "Muito Bom" (51.0, 61.8);
+ registar veiculo "DW-63-41" "Mota" "Bom" (5.5, 17.3);
+ logout;
+
+registar empresa "Out Taxi" "eu";
+
+registar condutor "IveteAnjos@gmail.com" "Ivete Anjos" "fqywiexrsegu" "Rua Pedro de Azevedo, 223, 1950-233 Lisboa" 1962-09-06 97;
+registar veiculo "79-UK-43" "Mota" "Razoavel" (100.5, 0.2);
+ 
+registar empresa "Taxi Lideres" "llepnfagdsaawgfytbtkqw";
+
+login "Comando Taxi" "hsavbtzucunddbi";
+registar veiculo "81-TJ-46" "Mota" "Bom" (7.3, 87.6);
+ logout;
+
+login "BriciaTavares@hotmail.com" "pxswn";
+logout;
+
+registar cliente "Ditza-Sousa@alunos.uminho.pt" "Ditza Sousa" "ijucvlihlhtjdqulma" "Travessa da Benedita, 1621, 4780-785 Lama" 1986-12-29 (94.5, 53.9);
+
+login "Carin.Martins@hotmail.com" "ewg";
+logout;
+
+registar condutor "CelsoMagalhaes@hotmail.com" "Celso Magalhaes" "ojmgwpv" "Rotunda da Fonte Ceta, 232, 4575-054 Alpendorada e Matos" 1965-08-07 17;
+registar veiculo "51-62-IR" "Helicoptero" "Muito Mau" (51.6, 63.6);
+ 
+registar condutor "evilaAmorim@hotmail.com" "evila Amorim" "ldegkpy" "Rua Leonor Pimentel, 2176, 1400-234 Lisboa" 1998-08-13 34 "Taxi Suco";
+
+registar cliente "Neuza.Simoes@alunos.uminho.pt" "Neuza Simoes" "xzdcjvjoqveoxieuimciepbxz" "Rua de Santo Alfredo, 1239, 2200-157 Abrantes" 1981-05-17 (93.3, 27.5);
+
+login "Out Taxi" "eu";
+registar veiculo "PD-79-47" "Carrinha" "Razoavel" (10.0, 53.5);
+ registar veiculo "00-RG-72" "Carro" "Muito Bom" (40.9, 62.3);
+ logout;
+
+login "evilaAmorim@hotmail.com" "ldegkpy";
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+registar condutor "Alexia-Castro@gmail.com" "Alexia Castro" "qnliavbwvbgrnniistkobg" "Rua do Machorro, 1643, 3460-258 Molelos" 1985-04-27 34 "Redwood Taxi";
+
+login "Grilo Taxi" "xoyrlefidodpoxjpjfmfwfmfz";
+logout;
+
+registar condutor "GoncalaFernandes@gmail.com" "Goncala Fernandes" "evjrpyaakjwpplnqrnlsxsgulq" "Rua do Carias, 1121, 2965-221 Brejos do Poco" 1969-07-16 21;
+registar veiculo "12-FK-79" "Carro" "Razoavel" (55.0, 88.0);
+ 
+registar condutor "Zahra.Ramos@hotmail.com" "Zahra Ramos" "dpdvomn" "Estrada Branqueta, 1261, 4930-682 Valenca" 1998-12-04 30 "Primavera Taxi";
+
+registar condutor "DelminaSantos@sapo.pt" "Delmina Santos" "dfty" "Quinta da Vinha, 972, 3405-005 Bobadela" 1994-08-18 82;
+registar veiculo "YF-29-69" "Mota" "Muito Mau" (14.8, 37.5);
+ 
+login "Iasmin-Esteves@gmail.com" "gqlrezahmykqthsrnxopuqceftfl";
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+login "Taxi Lideres" "llepnfagdsaawgfytbtkqw";
+logout;
+
+login "Ditza-Sousa@alunos.uminho.pt" "ijucvlihlhtjdqulma";
+logout;
+
+registar cliente "asia-Garcia@gmail.com" "asia Garcia" "fuc" "Travessa das Lameiras, 64, 4510-130 Jovim" 1996-09-26 (53.3, 90.8);
+
+registar cliente "Audete_Vaz@hotmail.com" "Audete Vaz" "acpvelvcizwfirpkoojcynze" "Rua Professor Joaquim Alberto Taquelim, 691, 8600-760 Lagos" 1958-11-24 (58.3, 20.9);
+
+login "Helia_Tavares@alunos.uminho.pt" "npvarnn";
+logout;
+
+login "JaniqueAmorim@alunos.uminho.pt" "jzgnmlxkiaqrfegq";
+logout;
+
+registar condutor "Anolido-Machado@gmail.com" "Anolido Machado" "biloclmarrnuzxlkukpwfx" "Travessa da Igreja, 692, 2460-663 Sao Martinho do Porto" 1995-03-23 66;
+registar veiculo "LG-17-75" "Carro" "Razoavel" (84.0, 39.2);
+ 
+login "IveteAnjos@gmail.com" "fqywiexrsegu";
+alterar disponibilidade ;
+logout;
+
+registar empresa "Roadrunner Taxi" "qqiyqtngjydlkqkjjuonjd";
+
+login "Primavera Taxi" "x";
+logout;
+
+registar condutor "Antonieta.Magalhaes@hotmail.com" "Antonieta Magalhaes" "uvlahkfjzukoxg" "Travessa do Casalinho, 2496, 2495-246 Chainca" 2000-08-13 39;
+registar veiculo "33-RV-89" "Mota" "Bom" (43.1, 81.9);
+ 
+registar condutor "Armenio.Barros@sapo.pt" "Armenio Barros" "iftbbrd" "Caminho do Moinho Velho, 2081, 4730-154 Duas Igrejas" 1960-09-17 46;
+registar veiculo "80-MB-23" "Carro" "Muito Bom" (76.9, 63.9);
+ 
+registar condutor "atila_Jesus@gmail.com" "atila Jesus" "jjlionh" "Vereda de Serafim da Silva Ramos, 1199, 4475-038 Maia" 1982-10-01 87;
+registar veiculo "YP-77-43" "Carrinha" "Razoavel" (91.1, 62.6);
+ 
+registar condutor "Angelica_Assuncao@hotmail.com" "Angelica Assuncao" "pkggmfluiqnbmnftje" "Rua Fonte, 2121, 3040-491 Vale de Cabras" 1965-11-29 86;
+registar veiculo "ZV-91-89" "Carro" "Muito Bom" (96.5, 97.6);
+ 
+login "Motor Taxi" "doscrwbllvonoyeayixntzumd";
+logout;
+
+registar condutor "JairoMarques@sapo.pt" "Jairo Marques" "qjlqtezniaykeilivrqouv" "Rua da Lomba, 196, 3830-475 Gafanha da Encarnacao" 1970-12-13 25;
+registar veiculo "47-ES-48" "Carrinha" "Bom" (88.3, 73.9);
+ 
+registar condutor "Diamantino-Morais@sapo.pt" "Diamantino Morais" "rrylejnfnifihsqughdgff" "Travessa da Escola, 992, 2425-308 Outeiro da Fonte" 1999-09-14 100;
+registar veiculo "DE-15-00" "Helicoptero" "Muito Bom" (98.6, 48.2);
+ 
+registar condutor "Silviana.Pinho@alunos.uminho.pt" "Silviana Pinho" "cwqignozsjcivscabyedq" "Travessa dos Fieis de Deus, 1883, 1200-187 Lisboa" 1998-04-02 43;
+registar veiculo "XB-69-01" "Carrinha" "Razoavel" (4.3, 2.2);
+ 
+registar condutor "Lira-Carneiro@hotmail.com" "Lira Carneiro" "exrzszizdcndzxxazsokqcfv" "Recanto de Borreles, 502, 4415-179 Pedroso" 1991-02-11 13;
+registar veiculo "LH-90-65" "Helicoptero" "Bom" (36.6, 55.4);
+ 
+registar condutor "Valerio.Baptista@alunos.uminho.pt" "Valerio Baptista" "njdlsdwjvrdbcdtndxvsdqi" "Rua Joao Alves Mineiro, 1296, 2400-201 Leiria" 1991-03-05 65;
+registar veiculo "69-DO-61" "Carro" "Bom" (78.2, 5.5);
+ 
+registar condutor "Avelino-Reis@hotmail.com" "Avelino Reis" "lhavxqqfbyyckbatwzt" "Travessa das Casas Velhas, 2231, 4805-459 Briteiros Santa Leocadia" 1973-01-01 82;
+registar veiculo "32-90-OC" "Carro" "Muito Bom" (79.5, 44.3);
+ 
+registar condutor "agueda.Pinho@sapo.pt" "agueda Pinho" "eaef" "Rua dos Luises, 1547, 4910-357 Venade" 1967-08-15 56;
+registar veiculo "NE-51-16" "Carro" "Muito Bom" (34.2, 69.0);
+ 
+registar empresa "Taxi Suco" "vjgf";
+
+registar empresa "Taxi Suco" "pffvzflajitjhuiplkwtpdshua";
+
+registar condutor "HuguetePinheiro@hotmail.com" "Huguete Pinheiro" "pt" "Caminho do Urtigal, 169, 5040-029 Teixeira" 1988-01-28 65 "Taxi Suco";
+
+login "Taxi Independente" "p";
+logout;
+
+login "Taxi Lideres" "llepnfagdsaawgfytbtkqw";
+registar veiculo "28-84-OR" "Carro" "Bom" (80.0, 13.1);
+ logout;
+
+registar condutor "Fatima-Matos@gmail.com" "Fatima Matos" "gqcnvuxdppjslj" "Rua do Eiro, 2262, 4560-054 Casteloes" 1958-01-07 19;
+registar veiculo "92-TD-37" "Carro" "Mau" (40.9, 37.4);
+ 
+login "BriciaTavares@hotmail.com" "pxswn";
+solicitar (3.3, 44.6);
+logout;
+
+registar condutor "Adiel_Vieira@gmail.com" "Adiel Vieira" "xm" ", 753, 7630-731 Alcaria do Clemente" 1959-05-28 18;
+registar veiculo "WM-59-27" "Mota" "Muito Mau" (53.4, 67.0);
+ 
+registar empresa "Out Taxi" "lyl";
+
+registar condutor "Demetrio_Fonseca@hotmail.com" "Demetrio Fonseca" "cpagybyhxuuagcsjwimcrwcijwuvh" "Travessa da Carreira, 655, 6185-336 Orvalho" 1959-08-24 100;
+registar veiculo "LW-28-28" "Carrinha" "Bom" (80.0, 85.8);
+ 
+registar condutor "Heliodora_Pinheiro@sapo.pt" "Heliodora Pinheiro" "sh" ", 971, 4980-139 Tomada" 1958-03-20 57;
+registar veiculo "76-BK-60" "Carro" "Muito Bom" (89.1, 43.0);
+ 
+login "Taxi Lideres" "llepnfagdsaawgfytbtkqw";
+registar veiculo "79-GQ-36" "Mota" "Bom" (36.5, 4.3);
+ registar veiculo "HT-19-33" "Carrinha" "Muito Mau" (31.9, 74.6);
+ registar veiculo "ET-78-32" "Helicoptero" "Muito Bom" (64.2, 25.4);
+ logout;
+
+login "Motor Taxi" "doscrwbllvonoyeayixntzumd";
+logout;
+
+login "Aleta-Cardoso@alunos.uminho.pt" "dxkmhntdgvrcoypvddpaczpzq";
+solicitar (31.9, 91.8);
+solicitar (75.3, 55.8);
+logout;
+
+login "CesarioSilva@gmail.com" "shqlaqvsugluvyvkgfmbboycvuhd";
+solicitar (16.2, 96.4);
+logout;
+
+registar condutor "Amadeu-Ribeiro@sapo.pt" "Amadeu Ribeiro" "uhmroyqrtfbmgizgrgblbxhqfbieq" "Caminho Municipal 1148, 1479, 7300-561 Urra" 1977-07-06 19;
+registar veiculo "20-HK-63" "Carro" "Bom" (38.4, 80.1);
+ 
+login "asia-Garcia@gmail.com" "fuc";
+logout;
+
+login "CesarioSilva@gmail.com" "shqlaqvsugluvyvkgfmbboycvuhd";
+logout;
+
+registar condutor "Nicolas.Mendes@sapo.pt" "Nicolas Mendes" "njwh" "Praceta Jose Marcelino, 1352, 2560-467 Santa Cruz" 1968-09-09 85;
+registar veiculo "RH-12-58" "Carrinha" "Razoavel" (24.4, 61.6);
+ 
+registar condutor "Secundino_Soares@gmail.com" "Secundino Soares" "rmwlpxldqs" ", 1920, 4960-150 Ervedal" 2000-05-27 31;
+registar veiculo "79-32-ST" "Carrinha" "Muito Bom" (14.4, 7.7);
+ 
+registar condutor "Hilario_Torres@alunos.uminho.pt" "Hilario Torres" "dzawyfdslmictvjpwhvf" "Largo da Praca do Peixe, 41, 3800-243 Aveiro" 1956-05-14 54;
+registar veiculo "74-18-ZK" "Carro" "Muito Mau" (69.2, 54.1);
+ 
+registar empresa "Taxi e Amigos" "xyhpkegrloqojsxlwlpqc";
+
+login "Iara.Pereira@gmail.com" "ckkncikgufvoidzogfwyeopa";
+solicitar (24.0, 12.9);
+solicitar (1.9, 25.7);
+solicitar (68.4, 71.5);
+logout;
+
+registar empresa "Taxi Independente" "jhqlyotixweppuowzughwfhkatn";
+
+registar empresa "Taxi Worth" "akrcdxm";
+
+registar condutor "Cidalina.Guerreiro@hotmail.com" "Cidalina Guerreiro" "hkbdxcr" "Travessa do Rabaldo, 2024, 4880-316 Vilarinho" 1961-07-09 29;
+registar veiculo "01-06-TX" "Mota" "Razoavel" (54.9, 91.5);
+ 
+login "Ernani_Abreu@alunos.uminho.pt" "jifsmdkruxezzhnokuyiavoj";
+logout;
+
+login "Lira-Carneiro@hotmail.com" "exrzszizdcndzxxazsokqcfv";
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+registar condutor "Amos.Marques@hotmail.com" "Amos Marques" "gcilnrgxghwqcgxn" "Rua 29 de Agosto, 1847, 7630-806 Zambujeira do Mar" 1973-03-12 12 "Primavera Taxi";
+
+registar condutor "AdrianaDomingues@gmail.com" "Adriana Domingues" "ywuwfqltuzn" "Rua da Charca, 411, 2715-443 Almargem do Bispo" 1964-01-25 34;
+registar veiculo "33-96-UT" "Carro" "Bom" (95.1, 83.8);
+ 
+registar empresa "Taxi Independente" "tpqmh";
+
+registar empresa "Primavera Taxi" "yxuebpiciibweifkaghoxqzcc";
+
+registar condutor "alia_Assuncao@sapo.pt" "alia Assuncao" "ghgouhyaodqlzwgyzigtpqvoeo" "Rua dos Fidalgos, 1769, 7830-350 Serpa" 1989-05-09 31 "Out Taxi";
+
+login "Primavera Taxi" "yxuebpiciibweifkaghoxqzcc";
+logout;
+
+registar condutor "Alberto_Mota@sapo.pt" "Alberto Mota" "jancviynzfxadxdzqrn" "Rua dos Goivos, 2061, 2625-238 Povoa de Santa Iria" 1973-09-28 37;
+registar veiculo "BT-62-60" "Helicoptero" "Bom" (22.2, 0.4);
+ 
+login "Antelmo.Baptista@sapo.pt" "rggynkhlkjedof";
+solicitar (53.1, 99.6);
+solicitar (43.3, 45.8);
+solicitar (77.1, 69.1);
+solicitar (9.5, 1.1);
+solicitar (26.7, 46.4);
+solicitar (84.7, 58.6);
+solicitar (98.5, 81.6);
+solicitar (0.4, 48.5);
+logout;
+
+login "Taxi Suco" "vjgf";
+registar veiculo "DH-48-16" "Helicoptero" "Razoavel" (8.9, 51.6);
+ registar veiculo "21-12-XL" "Carro" "Razoavel" (49.4, 55.7);
+ logout;
+
+login "Iara.Pereira@gmail.com" "ckkncikgufvoidzogfwyeopa";
+logout;
+
+registar empresa "Geek Taxi" "iinkuczghxhycbnbcaoepaysolcobt";
+
+login "Taxi Independente" "jhqlyotixweppuowzughwfhkatn";
+logout;
+
+registar cliente "GilmaMota@alunos.uminho.pt" "Gilma Mota" "soeloxoqksakju" "Caminho de Casal do Fundo, 270, 4890-171 Codecoso" 2000-09-21 (8.3, 84.9);
+
+login "GilmaMota@alunos.uminho.pt" "soeloxoqksakju";
+logout;
+
+registar cliente "Concha-Azevedo@gmail.com" "Concha Azevedo" "bcevythsuonclkxewqdtbgpfmjz" "Travessa do Tejo, 1939, 2260-236 Praia do Ribatejo" 1989-05-23 (61.8, 4.8);
+
+login "Diamantino-Morais@sapo.pt" "rrylejnfnifihsqughdgff";
+alterar disponibilidade ;
+logout;
+
+registar empresa "Taxi Independente" "kfqryamzqjtmoejedbqwpnxhpoycz";
+
+registar empresa "Razor Taxi" "z";
+
+registar condutor "Arcelio.Fonseca@sapo.pt" "Arcelio Fonseca" "wnfrbqgvlotqgidk" ", 1369, 4920-130 Assamonde" 1982-12-22 30;
+registar veiculo "69-FU-71" "Mota" "Muito Bom" (93.4, 45.1);
+ 
+registar cliente "Benicio-Freitas@gmail.com" "Benicio Freitas" "dro" "Rua Entre Hortas, 1521, 6260-128 Manteigas" 1987-11-25 (83.1, 68.1);
+
+login "Carin.Martins@hotmail.com" "ewg";
+solicitar (5.9, 92.5);
+logout;
+
+login "Roadrunner Taxi" "qqiyqtngjydlkqkjjuonjd";
+logout;
+
+registar empresa "Primavera Taxi" "rzvkfzkccdxubvlxrkwnqrbwyo";
+
+registar cliente "Eveline.Moura@sapo.pt" "Eveline Moura" "bqdt" "Rua Doutor alvaro da Silva Sampaio, 429, 3800-508 Aveiro" 1981-09-04 (30.5, 6.0);
+
+registar condutor "Stela-Nogueira@alunos.uminho.pt" "Stela Nogueira" "qvwawlagzpfmelrccwprmrcucrab" "Rua Antonio Ferro, 2234, 8500-664 Portimao" 1981-09-02 16 "Primavera Taxi";
+
+login "aquila.Cruz@alunos.uminho.pt" "il";
+logout;
+
+registar condutor "Aisha-Baptista@hotmail.com" "Aisha Baptista" "xbjpqmyxxlavvdzbgvhloizkakwb" "Rua dos Aluados, 2096, 6320-059 Bairro da Ponte" 1984-10-07 67;
+registar veiculo "58-AZ-51" "Carrinha" "Razoavel" (50.1, 15.3);
+ 
+registar condutor "Gumersinda-Morais@alunos.uminho.pt" "Gumersinda Morais" "rrivssaxhnaibzqgnzmaxhzzm" "Travessa Juizes do Couto, 109, 4905-462 Barroselas" 1962-12-14 36;
+registar veiculo "05-89-WE" "Carro" "Muito Bom" (62.6, 83.9);
+ 
+login "Motor Taxi" "doscrwbllvonoyeayixntzumd";
+logout;
+
+login "Amadeu-Ribeiro@sapo.pt" "uhmroyqrtfbmgizgrgblbxhqfbieq";
+logout;
+
+registar cliente "Juventino.Vieira@hotmail.com" "Juventino Vieira" "btbvctphww" "Avenida Padre Nabeto, 2450, 2950-113 Palmela" 1964-12-12 (26.7, 64.9);
+
+registar condutor "Sabina_Simoes@sapo.pt" "Sabina Simoes" "tuyxqaqmnogosyyfboxhjs" "Estrada Nacional 4, 1699, 7080-111 Vendas Novas" 1984-07-22 83 "Taxi Independente";
+
+registar condutor "Lia-Lopes@hotmail.com" "Lia Lopes" "ydzmoixjtqohzpeaxo" "Largo das Alminhas, 2173, 4585-515 Sobreira" 2000-11-15 15;
+registar veiculo "33-GG-71" "Carrinha" "Muito Bom" (14.7, 32.9);
+ 
+registar condutor "Isadora.Henriques@gmail.com" "Isadora Henriques" "yubrnaryq" "Rua de Marcos e Aduzinda, 2304, 4765-336 Santa Maria Oliveira" 1990-09-24 34;
+registar veiculo "90-IJ-63" "Mota" "Muito Bom" (61.5, 23.9);
+ 
+registar cliente "Gioconda_Brito@sapo.pt" "Gioconda Brito" "cgxzuqfcocpjl" "Rua de Pego Negro, 2429, 4575-412 Portela" 1989-03-03 (66.4, 51.9);
+
+login "Auxilia_Almeida@gmail.com" "szpozonvdzvxutwbjjauc";
+solicitar (95.1, 98.1);
+logout;
+
+login "Aleta-Cardoso@alunos.uminho.pt" "dxkmhntdgvrcoypvddpaczpzq";
+solicitar (19.4, 63.9);
+logout;
+
+registar cliente "Adao-Martins@sapo.pt" "Adao Martins" "fdhutbzge" "Rua David Mourao Ferreira, 1840, 2690-328 Santa Iria de Azoia" 1975-07-17 (63.2, 7.7);
+
+registar cliente "Baldemar-Branco@alunos.uminho.pt" "Baldemar Branco" "uj" "Rua Centro das Casas, 1296, 3780-476 Moita" 1968-09-01 (63.9, 26.8);
+
+login "Gioconda_Brito@sapo.pt" "cgxzuqfcocpjl";
+solicitar (50.9, 67.1);
+logout;
+
+registar cliente "Sandro.Raposo@alunos.uminho.pt" "Sandro Raposo" "eybvddvgptogdhbyuefwdhg" "Rua de Sao Jose, 2400, 2435-229 Abades" 1995-10-21 (42.2, 36.1);
+
+login "Taxi Suco" "meepadjizsdfvzlbdxfcarn";
+registar veiculo "27-VE-07" "Mota" "Bom" (3.2, 56.3);
+ registar veiculo "04-IN-80" "Carro" "Razoavel" (3.3, 84.3);
+ logout;
+
+login "BriciaTavares@hotmail.com" "pxswn";
+solicitar (58.8, 14.9);
+solicitar (97.8, 44.7);
+solicitar (1.9, 97.8);
+logout;
+
+registar condutor "Evandra.Mota@sapo.pt" "Evandra Mota" "ymvebn" "Rua de Alvarinhas, 1777, 4890-162 Codecoso" 1960-09-29 28 "Taxi Cidade";
+
+registar empresa "Roadrunner Taxi" "rkstgjcrmcumiatcrkfevpp";
+
+registar condutor "NormandoLeite@sapo.pt" "Normando Leite" "iyrybhjvxeawtbldlnuaxelvn" "Rua do Candeeiro, 1180, 4560-054 Casteloes" 1983-03-17 36;
+registar veiculo "98-KJ-22" "Mota" "Muito Bom" (28.4, 8.6);
+ 
+registar cliente "Donzilia-Marques@hotmail.com" "Donzilia Marques" "xibifdfuxbcual" "Praca Municipio, 1699, 6200-151 Covilha" 1957-03-30 (50.9, 52.2);
+
+registar condutor "FaraCarvalho@sapo.pt" "Fara Carvalho" "xpxnptchhoeikwsdcltwjocjl" "Avenida de Saboia, 1340, 2765-580 Monte Estoril" 1974-03-20 17 "Roadrunner Taxi";
+
+login "Audete_Vaz@hotmail.com" "acpvelvcizwfirpkoojcynze";
+solicitar (9.3, 16.4);
+solicitar (51.8, 71.7);
+logout;
+
+login "Primavera Taxi" "eyqsk";
+registar veiculo "QX-37-49" "Carro" "Razoavel" (96.7, 51.8);
+ logout;
+
+login "Jacome-Figueiredo@gmail.com" "jt";
+logout;
+
+login "Taxi Worth" "akrcdxm";
+logout;
+
+registar empresa "Talk Taxi" "osgn";
+
+registar condutor "Agenor-Carneiro@hotmail.com" "Agenor Carneiro" "hbqmqgxpnqmsvzxwrzfjh" "Travessa Fonte do Frade, 1795, 3045-067 Coimbra" 1999-09-16 60;
+registar veiculo "PK-53-90" "Carrinha" "Bom" (22.8, 49.3);
+ 
+registar condutor "Ursiao-Henriques@sapo.pt" "Ursiao Henriques" "ejprenyxfdipbtwwtmnvmew" "Rua da Franqueira, 2005, 4615-640 Lixa" 1965-11-12 90;
+registar veiculo "33-QR-78" "Mota" "Bom" (62.0, 71.7);
+ 
+login "Taxi Lideres" "llepnfagdsaawgfytbtkqw";
+logout;
+
+registar cliente "Indro_Rocha@gmail.com" "Indro Rocha" "xfqetz" ", 1822, 5400-576 Izei" 1994-09-24 (39.2, 42.9);
+
+login "Aleta-Cardoso@alunos.uminho.pt" "dxkmhntdgvrcoypvddpaczpzq";
+solicitar (48.8, 96.1);
+solicitar (15.9, 56.0);
+logout;
+
+login "Helda.Castro@hotmail.com" "fbtyxcuufergmjuor";
+alterar disponibilidade ;
+logout;
+
+registar cliente "Isa_Pinho@sapo.pt" "Isa Pinho" "xkpyohudtpetpm" "Largo Professora Cristiana A. Cordeiro, 1996, 4480-714 Vila do Conde" 1976-10-03 (38.0, 58.7);
+
+login "IveteAnjos@gmail.com" "fqywiexrsegu";
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+login "Carin.Martins@hotmail.com" "ewg";
+solicitar (39.6, 86.5);
+solicitar (55.4, 57.8);
+logout;
+
+registar condutor "Paulino_Almeida@hotmail.com" "Paulino Almeida" "hdpbsbuhgmfqnfwhxecthddrgjw" "Rua General Henrique de Carvalho, 1357, 1600-475 Lisboa" 1987-04-10 19;
+registar veiculo "BT-56-47" "Carro" "Bom" (32.7, 17.3);
+ 
+login "Fatima-Matos@gmail.com" "gqcnvuxdppjslj";
+alterar disponibilidade ;
+logout;
+
+registar condutor "Febe-Castro@hotmail.com" "Febe Castro" "inozxlvjdxsldfif" "Estrada do Passal, 609, 9350-347 Serra de agua" 1959-12-29 74;
+registar veiculo "ZZ-54-82" "Carrinha" "Razoavel" (52.9, 36.6);
+ 
+registar condutor "Alcides.Mendes@hotmail.com" "Alcides Mendes" "woqurycutgicnnpcu" "Calcada do Colegio, 952, 4415-585 Crestuma" 2000-06-02 51;
+registar veiculo "26-21-GK" "Helicoptero" "Bom" (63.5, 79.7);
+ 
+registar condutor "SextinaFonseca@alunos.uminho.pt" "Sextina Fonseca" "dcrxkxrnjmjhisvezhdouxwhtbbt" "Rua do Vale da Fonte, 1380, 2530-425 Miragaia" 1988-03-07 23;
+registar veiculo "87-68-DI" "Carro" "Razoavel" (54.6, 8.6);
+ 
+registar condutor "Isolda.Pinheiro@gmail.com" "Isolda Pinheiro" "k" "Travessa do Farol, 1817, 3880-216 Ovar" 1984-11-30 12 "Motor Taxi";
+
+login "Heloisa.Vicente@sapo.pt" "deqtmxianzl";
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+registar cliente "Gamaliel.Fonseca@sapo.pt" "Gamaliel Fonseca" "fune" "Rua da Vigia, 2039, 2775-298 Parede" 1968-09-25 (87.5, 82.8);
+
+registar cliente "Bibiana_Branco@hotmail.com" "Bibiana Branco" "zgqqseriaeotrwbbpkr" ", 1989, 8100-386 Casas Velhas" 1982-10-16 (79.2, 94.4);
+
+login "Sabina_Simoes@sapo.pt" "tuyxqaqmnogosyyfboxhjs";
+alterar disponibilidade ;
+logout;
+
+registar empresa "Taxi Independente" "tefhghfbwjpj";
+
+login "Taxi Suco" "pffvzflajitjhuiplkwtpdshua";
+logout;
+
+registar condutor "Jovelina-Simoes@alunos.uminho.pt" "Jovelina Simoes" "icjwhhfbthqivkvsylgkikek" "Rua da Vinha, 574, 2640-410 Mafra" 1971-09-18 37;
+registar veiculo "HP-42-27" "Mota" "Bom" (73.6, 73.9);
+ 
+registar condutor "Jovelina_Carneiro@sapo.pt" "Jovelina Carneiro" "zgxcldkpjzhlhtrnzekdwsttjueuib" "Rua de Sao Joao, 2377, 4830-204 Fontarcada" 1984-07-22 100;
+registar veiculo "36-60-BU" "Mota" "Razoavel" (73.3, 42.9);
+ 
+login "IagGaspar@sapo.pt" "odqjqtpzcnzugqmhzqzlrejnopabyt";
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+login "Taxi Suco" "meepadjizsdfvzlbdxfcarn";
+logout;
+
+registar cliente "Analisa-Carneiro@alunos.uminho.pt" "Analisa Carneiro" "gvuq" "Beco de Santo Antonio, 1914, 4700-663 Padim da Graca" 1983-02-16 (17.9, 36.7);
+
+registar condutor "Anaisa-Abreu@gmail.com" "Anaisa Abreu" "eknhlvt" "Rua do Carvalhal, 1631, 3500-615 Viseu" 1980-06-08 72 "Taxi Lideres";
+
+registar cliente "Donato.Pacheco@sapo.pt" "Donato Pacheco" "ovvrkvhihsz" "Praceta Gil Vicente, 721, 2135-033 Samora Correia" 1972-06-03 (62.6, 60.7);
+
+login "GilmaMota@alunos.uminho.pt" "soeloxoqksakju";
+solicitar (54.9, 87.4);
+solicitar (31.6, 81.1);
+solicitar (93.3, 87.7);
+solicitar (68.2, 70.8);
+logout;
+
+login "GilmaMota@alunos.uminho.pt" "soeloxoqksakju";
+solicitar (53.3, 34.9);
+logout;
+
+login "Taxi Lideres" "llepnfagdsaawgfytbtkqw";
+logout;
+
+login "Antelmo.Baptista@sapo.pt" "rggynkhlkjedof";
+solicitar (48.5, 15.5);
+logout;
+
+login "Jeni.Simoes@sapo.pt" "mhvb";
+logout;
+
+registar empresa "Taxi Suco" "sheusyh";
+
+registar empresa "Motor Taxi" "ohvzfv";
+
+registar cliente "Gerda.Vaz@hotmail.com" "Gerda Vaz" "jgpbpthkfqfoieoxwkzwirbwdyzn" "Rua das Escolas, 931, 4445-109 Alfena" 1989-07-27 (98.3, 19.4);
+
+registar cliente "Adamantino.Matias@hotmail.com" "Adamantino Matias" "qejvgwsekkfijfdzpjsizovotmh" "Rua Dom Carlos I, 1382, 8500-607 Portimao" 1985-05-15 (87.8, 24.0);
+
+login "AdrianaDomingues@gmail.com" "ywuwfqltuzn";
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+registar empresa "Taxi Grupos" "ycqdjslaueplygnpiugsigwvodd";
+
+registar condutor "Udo_Amorim@gmail.com" "Udo Amorim" "jytezmicrplvoposyqmjlhzlg" "Travessa Antonio Sampaio, 2270, 4610-806 Varzea" 1956-05-30 59 "Primavera Taxi";
+
+login "Grilo Taxi" "xoyrlefidodpoxjpjfmfwfmfz";
+registar veiculo "08-36-KS" "Carro" "Razoavel" (12.9, 24.1);
+ registar veiculo "QY-80-52" "Carro" "Razoavel" (36.5, 37.5);
+ logout;
+
+registar condutor "Gervasio_Ramos@alunos.uminho.pt" "Gervasio Ramos" "tokkvtlnskgvzwghkg" "Rua das Fontes, 848, 3630-251 Penedono" 1999-11-20 61;
+registar veiculo "46-81-FZ" "Helicoptero" "Razoavel" (87.7, 75.7);
+ 
+registar empresa "Grilo Taxi" "oizpetsadtqqe";
+
+registar cliente "Gervasia_Goncalves@sapo.pt" "Gervasia Goncalves" "bzuhaqmbtacemzmjcjbhn" "Avenida da Republica, 1773, 1495-108 Alges" 1991-07-07 (57.7, 39.0);
+
+login "Carin.Martins@hotmail.com" "ewg";
+solicitar (7.9, 79.5);
+solicitar (5.3, 25.4);
+solicitar (65.2, 66.8);
+logout;
+
+registar cliente "Djalma-Simoes@alunos.uminho.pt" "Djalma Simoes" "he" "Rua do Campo Alegre, 405, 4150-169 Porto" 1996-09-26 (38.3, 10.0);
+
+registar condutor "Ludovino-Ribeiro@alunos.uminho.pt" "Ludovino Ribeiro" "utnvavzhzvtsgwvjovyxpqjnzao" "Caminho do Lodoeiro, 2447, 4640-431 Santa Cruz do Douro" 1959-02-28 98;
+registar veiculo "40-91-ZY" "Carro" "Razoavel" (99.4, 18.6);
+ 
+login "Adamantino.Matias@hotmail.com" "qejvgwsekkfijfdzpjsizovotmh";
+logout;
+
+registar condutor "Eneias-Simoes@hotmail.com" "Eneias Simoes" "knhcmuutfatwdbtmgujbmu" "Rua Carvalho Araujo, 1285, 2490-528 Ourem" 1966-01-04 93;
+registar veiculo "38-20-DD" "Carro" "Bom" (22.4, 32.0);
+ 
+registar condutor "Anatilde_Tavares@gmail.com" "Anatilde Tavares" "ddqinsnjlpkrylwbefkvckyiond" ", 2303, 7565-252 Monte da Horta" 1998-02-17 68;
+registar veiculo "76-QH-63" "Carro" "Muito Bom" (60.0, 67.5);
+ 
+registar condutor "Dercio.Batista@alunos.uminho.pt" "Dercio Batista" "cvgprwlozxbvsbvijkusrbduiary" "Travessa da Rua Longa, 2182, 7830-144 Brinches" 1992-09-11 99 "Roadrunner Taxi";
+
+login "Motor Taxi" "ohvzfv";
+logout;
+
+registar cliente "Polibe-Maia@sapo.pt" "Polibe Maia" "oboyeyuhibkwotmwqntdn" "Rua Leao do Nascimento Penedo, 989, 2740-084 Porto Salvo" 1960-03-01 (31.2, 93.9);
+
+login "evilaAmorim@hotmail.com" "ldegkpy";
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+registar condutor "Jaques_Reis@sapo.pt" "Jaques Reis" "jd" "Urbanizacao do Lameu, 944, 4625-110 Favoes" 1994-07-15 42;
+registar veiculo "42-YR-05" "Carro" "Razoavel" (14.9, 59.4);
+ 
+registar cliente "Jordano_Matias@sapo.pt" "Jordano Matias" "jhjsqoqojnzknwyxtznzdfl" "Rua Doutor Jose Domingues dos Santos, 257, 4455-008 Lavra" 1957-03-06 (100.4, 60.7);
+
+registar empresa "Taxi Suco" "lmr";
+
+registar cliente "Leandro.Araujo@gmail.com" "Leandro Araujo" "ndiwotjozlbbpazzqhq" "Rua do Frade, 82, 4990-681 Poiares" 1993-09-13 (8.2, 58.8);
+
+registar cliente "LaurinaMoreira@gmail.com" "Laurina Moreira" "ndmlymo" "Parque 186 de Dezembro, 526, 4820-141 Fafe" 1995-11-03 (24.3, 84.3);
+
+login "Leolina-Vieira@gmail.com" "mbpef";
+logout;
+
+registar cliente "Tarsicio-Oliveira@sapo.pt" "Tarsicio Oliveira" "vxvtctp" "Rua 43, 1734, 2950-678 Quinta do Anjo" 1980-09-05 (56.0, 35.9);
+
+registar cliente "LeaoMoreira@alunos.uminho.pt" "Leao Moreira" "cq" "Quinta da Serra, 246, 6200-338 Covilha" 1971-11-19 (84.8, 78.6);
+
+registar condutor "Eliano.Ferreira@hotmail.com" "Eliano Ferreira" "dqcmqvocdtegsvypckebwxdj" "Rua Agostinho Neto, 2039, 2625-257 Vialonga" 1980-12-21 95 "Taxi Suco";
+
+login "Gerda.Vaz@hotmail.com" "jgpbpthkfqfoieoxwkzwirbwdyzn";
+logout;
+
+registar cliente "Rosa.Mota@gmail.com" "Rosa Mota" "ikuj" "Rua da Estivada, 933, 4575-619 Rio Mau" 2000-09-28 (64.1, 88.3);
+
+login "Taxi Suco" "meepadjizsdfvzlbdxfcarn";
+registar veiculo "38-89-TP" "Carro" "Razoavel" (13.9, 73.5);
+ registar veiculo "98-01-DJ" "Carro" "Muito Bom" (63.4, 90.8);
+ logout;
+
+registar condutor "Adamastor_Cunha@hotmail.com" "Adamastor Cunha" "rjrysnjwuqclxtkoxrfjxw" "Praceta Antonio Enes, 2079, 2910-274 Setubal" 1970-11-26 16;
+registar veiculo "SM-37-37" "Carro" "Razoavel" (85.5, 65.2);
+ 
+registar condutor "Dorisa-Morais@hotmail.com" "Dorisa Morais" "qxdaggemlftuqtrgydqnynopiu" "Rua dos Maios, 1217, 2950-543 Quinta do Anjo" 1957-06-29 98;
+registar veiculo "72-OZ-31" "Carrinha" "Bom" (83.4, 52.1);
+ 
+login "Talk Taxi" "osgn";
+registar veiculo "47-MS-62" "Mota" "Bom" (83.4, 68.1);
+ logout;
+
+registar empresa "Geek Taxi" "odyfsiafmormot";
+
+login "JairoMarques@sapo.pt" "qjlqtezniaykeilivrqouv";
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+registar condutor "Luzia_Garcia@gmail.com" "Luzia Garcia" "sql" "Rua dos Moleiros, 2092, 4560-027 Abragao" 1968-12-25 84;
+registar veiculo "FT-05-07" "Helicoptero" "Razoavel" (23.0, 57.0);
+ 
+login "Sr Taxi" "ptyqeaxvyfbovc";
+registar veiculo "TB-86-83" "Helicoptero" "Bom" (12.2, 0.0);
+ registar veiculo "AJ-28-03" "Carro" "Muito Bom" (44.7, 8.4);
+ registar veiculo "92-SL-78" "Carrinha" "Mau" (28.4, 74.3);
+ registar veiculo "97-DF-96" "Helicoptero" "Muito Bom" (25.4, 19.2);
+ registar veiculo "34-UI-76" "Carrinha" "Bom" (38.3, 71.4);
+ registar veiculo "JX-52-23" "Helicoptero" "Bom" (23.1, 74.6);
+ registar veiculo "36-EF-02" "Carro" "Razoavel" (83.9, 50.2);
+ registar veiculo "62-LZ-98" "Mota" "Muito Bom" (28.3, 38.0);
+ logout;
+
+registar condutor "Engracio_Simoes@hotmail.com" "Engracio Simoes" "nzjyyd" "Rua do Chao, 1081, 3405-128 Povoa de Sao Cosme" 1966-01-13 42 "Taxi Cidade";
+
+login "Razor Taxi" "z";
+registar veiculo "50-90-CU" "Carrinha" "Bom" (13.3, 96.5);
+ logout;
+
+login "Roadrunner Taxi" "rkstgjcrmcumiatcrkfevpp";
+registar veiculo "74-OX-49" "Carro" "Razoavel" (78.2, 87.3);
+ logout;
+
+registar condutor "Tejala_Nascimento@alunos.uminho.pt" "Tejala Nascimento" "ltksbbokmsesklbpnvlukolkzudk" "Avenida 25 de Abril, 839, 4405-708 Vila Nova de Gaia" 1997-06-09 81;
+registar veiculo "07-BH-98" "Carro" "Muito Bom" (21.2, 60.8);
+ 
+registar empresa "Sr Taxi" "lricyj";
+
+login "Primavera Taxi" "x";
+registar veiculo "62-88-DG" "Carro" "Bom" (76.7, 40.2);
+ logout;
+
+login "Tarsicio-Oliveira@sapo.pt" "vxvtctp";
+solicitar (74.7, 74.8);
+solicitar (64.8, 65.6);
+logout;
+
+registar condutor "Eutalia_Lima@gmail.com" "Eutalia Lima" "lqtrpbjyul" "Travessa Rufino Soares dos Santos, 908, 2810-354 Almada" 1995-05-24 98;
+registar veiculo "89-CT-97" "Carrinha" "Muito Bom" (27.5, 11.7);
+ 
+registar cliente "XimenaAnjos@hotmail.com" "Ximena Anjos" "xzfdaznfybtn" "Rua do Monte Moleao, 1473, 8600-315 Lagos" 1978-10-03 (5.8, 16.0);
+
+registar condutor "Dorina-Machado@alunos.uminho.pt" "Dorina Machado" "rvqigwezpbvapyippsplafjuplh" ", 777, 2670-522 Torre dos Trotes" 1997-04-17 12;
+registar veiculo "89-70-UG" "Helicoptero" "Bom" (63.7, 5.4);
+ 
+login "DelminaSantos@sapo.pt" "dfty";
+logout;
+
+login "Taxi Cidade" "webha";
+registar veiculo "91-LA-10" "Carro" "Muito Mau" (90.1, 75.1);
+ logout;
+
+login "DialinaSoares@sapo.pt" "ybjhbencnvfddcl";
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+login "Eneias-Simoes@hotmail.com" "knhcmuutfatwdbtmgujbmu";
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+login "Antelmo.Baptista@sapo.pt" "rggynkhlkjedof";
+logout;
+
+login "Ditza-Sousa@alunos.uminho.pt" "ijucvlihlhtjdqulma";
+logout;
+
+login "Concha-Azevedo@gmail.com" "bcevythsuonclkxewqdtbgpfmjz";
+logout;
+
+login "Aleta-Cardoso@alunos.uminho.pt" "dxkmhntdgvrcoypvddpaczpzq";
+solicitar (68.3, 91.6);
+logout;
+
+registar condutor "Dacio.Cardoso@hotmail.com" "Dacio Cardoso" "sxm" "Travessa Doutor Joaquim Pedrosa Junior, 419, 4430-089 Vila Nova de Gaia" 1963-05-26 68;
+registar veiculo "AO-68-41" "Carro" "Muito Bom" (18.6, 90.9);
+ 
+login "Taxi Suco" "meepadjizsdfvzlbdxfcarn";
+logout;
+
+registar cliente "DilermandoLourenco@gmail.com" "Dilermando Lourenco" "mwwfvfdwblsrufckqtynfhdzc" ", 2461, 2530-687 Feteira" 1993-10-30 (50.1, 14.9);
+
+registar condutor "JordanoSimoes@gmail.com" "Jordano Simoes" "afjawuhocgkhbkqxgomq" "Rua Nova do Acude, 765, 2070-108 Cartaxo" 1981-06-22 94 "Redwood Taxi";
+
+registar condutor "Melinda_Sa@alunos.uminho.pt" "Melinda Sa" "h" "Beco de Freixieiro, 2272, 4750-624 Perelhal" 1961-03-03 79;
+registar veiculo "52-RU-92" "Carro" "Muito Mau" (21.4, 22.7);
+ 
+registar empresa "Primavera Taxi" "ikmqrwzbocmuhcvtumvgjvexos";
+
+registar condutor "Siria.Guerreiro@sapo.pt" "Siria Guerreiro" "exnettfqlfhgd" "Rua Angola, 2152, 2620-037 Olival Basto" 1963-05-17 80;
+registar veiculo "66-WG-86" "Carro" "Razoavel" (44.1, 48.1);
+ 
+registar cliente "enia.Borges@gmail.com" "enia Borges" "mdweackjl" "Alameda das Comunidades Portuguesas, 134, 1700-111 Lisboa" 1996-03-29 (7.9, 52.7);
+
+registar condutor "VivaldoAmaral@hotmail.com" "Vivaldo Amaral" "gjhngjplnxqdavkoptjgsxlafilrs" "Rua Doutor Francisco Sa Carneiro, 1064, 3000-194 Coimbra" 1968-05-24 83;
+registar veiculo "52-92-WQ" "Carro" "Razoavel" (64.0, 57.2);
+ 
+registar cliente "FiloteuSantos@alunos.uminho.pt" "Filoteu Santos" "dyxsygwcjylzvvkwtshfdifgjy" "Rua da Feira, 348, 3860-318 Estarreja" 1989-08-04 (81.8, 30.1);
+
+registar condutor "Almara_Rocha@sapo.pt" "Almara Rocha" "skbj" "Caminho dos Ribeiros, 1976, 4635-641 Varzea da Ovelha E Aliviada" 1964-05-11 37;
+registar veiculo "40-80-YL" "Carro" "Razoavel" (76.5, 91.5);
+ 
+login "Rosa.Mota@gmail.com" "ikuj";
+logout;
+
+login "Gioconda_Brito@sapo.pt" "cgxzuqfcocpjl";
+logout;
+
+registar condutor "Yuri-Cunha@alunos.uminho.pt" "Yuri Cunha" "twvdtrknurqbcynaledjpg" "Rua do Passadouro, 1499, 3750-458 Fermentelos" 1963-10-09 68;
+registar veiculo "EA-81-62" "Carrinha" "Muito Mau" (77.3, 74.6);
+ 
+login "Quevin.Batista@hotmail.com" "rpaqgpvdtiv";
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+registar cliente "Indaleta-Gomes@gmail.com" "Indaleta Gomes" "kienu" "170 Travessa da Olaria, 1499, 9125-163 Canico" 1986-02-21 (33.8, 95.9);
+
+login "Taxi Suco" "sheusyh";
+registar veiculo "PC-08-85" "Mota" "Muito Bom" (22.8, 66.6);
+ logout;
+
+login "Primavera Taxi" "yxuebpiciibweifkaghoxqzcc";
+logout;
+
+login "Cidalina.Guerreiro@hotmail.com" "hkbdxcr";
+logout;
+
+registar condutor "Joaquim-Brito@gmail.com" "Joaquim Brito" "davrcaizvklv" ", 1118, 4690-175 Vales" 1971-05-25 54;
+registar veiculo "18-29-GF" "Mota" "Bom" (98.3, 60.5);
+ 
+login "Gerda.Vaz@hotmail.com" "jgpbpthkfqfoieoxwkzwirbwdyzn";
+solicitar (45.1, 41.7);
+solicitar (17.9, 67.9);
+solicitar (31.1, 71.0);
+solicitar (16.2, 89.7);
+solicitar (33.5, 38.4);
+logout;
+
+login "Taxi Lideres" "llepnfagdsaawgfytbtkqw";
+registar veiculo "62-ML-18" "Mota" "Bom" (48.8, 58.6);
+ registar veiculo "38-63-RB" "Carro" "Razoavel" (21.8, 45.0);
+ registar veiculo "XO-02-21" "Mota" "Bom" (66.5, 30.9);
+ registar veiculo "27-KW-77" "Carro" "Muito Bom" (68.2, 10.2);
+ registar veiculo "12-JQ-80" "Helicoptero" "Bom" (81.1, 76.8);
+ registar veiculo "NR-53-79" "Carro" "Muito Mau" (66.1, 52.2);
+ registar veiculo "13-GY-84" "Helicoptero" "Muito Bom" (20.2, 20.1);
+ logout;
+
+registar condutor "Raul_Pereira@sapo.pt" "Raul Pereira" "khkxdpi" "Largo do Rio, 1057, 3510-835 Routar" 1983-02-08 51;
+registar veiculo "57-95-QS" "Carrinha" "Muito Bom" (38.9, 24.9);
+ 
+login "Taxi Suco" "meepadjizsdfvzlbdxfcarn";
+logout;
+
+registar cliente "Edmero_Pires@gmail.com" "Edmero Pires" "mvirxwfqjymnzpar" ", 1500, 3230-235 Fonte do Casal" 1968-12-13 (36.7, 54.9);
+
+registar cliente "Sara-Antunes@gmail.com" "Sara Antunes" "hwpbukbuajkgikixuwkuf" "Rua Sao Teotonio, 1175, 3530-098 Mangualde" 1999-07-12 (0.7, 3.1);
+
+login "Comando Taxi" "hsavbtzucunddbi";
+registar veiculo "YJ-66-70" "Mota" "Razoavel" (44.6, 32.9);
+ registar veiculo "RY-50-83" "Mota" "Muito Bom" (14.0, 86.1);
+ registar veiculo "13-57-GS" "Carro" "Bom" (42.1, 2.3);
+ logout;
+
+login "Jovelina-Simoes@alunos.uminho.pt" "icjwhhfbthqivkvsylgkikek";
+logout;
+
+login "Primavera Taxi" "ikmqrwzbocmuhcvtumvgjvexos";
+registar veiculo "96-XN-91" "Carrinha" "Muito Bom" (36.8, 40.5);
+ logout;
+
+login "Taxi Suco" "vjgf";
+logout;
+
+login "Sandro.Raposo@alunos.uminho.pt" "eybvddvgptogdhbyuefwdhg";
+logout;
+
+login "enia.Borges@gmail.com" "mdweackjl";
+logout;
+
+login "Carmorinda_Matias@hotmail.com" "yydmmsgkxpjenspg";
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+registar condutor "Herenio.Castro@gmail.com" "Herenio Castro" "gysrzibqfjtswqjzeecovp" ", 237, 4730-341 Agrelo" 1997-04-20 49;
+registar veiculo "48-MJ-39" "Mota" "Razoavel" (71.9, 52.7);
+ 
+login "Taxi Suco" "lmr";
+registar veiculo "DG-08-55" "Mota" "Bom" (1.0, 37.7);
+ logout;
+
+login "Ditza-Sousa@alunos.uminho.pt" "ijucvlihlhtjdqulma";
+solicitar (90.6, 100.4);
+logout;
+
+login "RuteNascimento@hotmail.com" "rjkeuyxmogkmagzdpeudhwkw";
+logout;
+
+login "Taxi e Amigos" "xyhpkegrloqojsxlwlpqc";
+registar veiculo "78-45-HQ" "Carrinha" "Muito Mau" (49.6, 41.6);
+ logout;
+
+login "Roadrunner Taxi" "qqiyqtngjydlkqkjjuonjd";
+logout;
+
+login "Comando Taxi" "hsavbtzucunddbi";
+logout;
+
+registar empresa "Geek Taxi" "mwqrsaqhqdxggfkmcrttae";
+
+login "Leandro.Araujo@gmail.com" "ndiwotjozlbbpazzqhq";
+logout;
+
+registar condutor "Semiramis_Pereira@alunos.uminho.pt" "Semiramis Pereira" "yfkvwdllpoufzoboxidywapuvhetpw" "Travessa Central da Corga, 1819, 4425-045 Maia" 1999-04-06 67 "Taxi Independente";
+
+registar empresa "Primavera Taxi" "jamn";
+
+registar cliente "Sextina.Costa@alunos.uminho.pt" "Sextina Costa" "itfvxabppkajxzlojgzfwxldfkso" "170 Rua da Mouraria, 1794, 7860-104 Moura" 1963-07-30 (98.1, 97.4);
+
+login "Gervasia_Goncalves@sapo.pt" "bzuhaqmbtacemzmjcjbhn";
+logout;
+
+login "Gervasio_Ramos@alunos.uminho.pt" "tokkvtlnskgvzwghkg";
+logout;
+
+login "CelsoMagalhaes@hotmail.com" "ojmgwpv";
+logout;
+
+registar condutor "Aquiles.Freitas@hotmail.com" "Aquiles Freitas" "gfd" "Travessa de Perlinhas, 327, 4435-391 Rio Tinto" 1986-12-22 91;
+registar veiculo "88-WV-24" "Carrinha" "Razoavel" (83.2, 47.4);
+ 
+registar cliente "Agna.Andrade@hotmail.com" "Agna Andrade" "kgynhd" "Caminho do Quelho da Fonte, 2401, 5040-450 Vila Marim" 1956-08-20 (56.5, 6.0);
+
+registar condutor "Leonila.Pires@alunos.uminho.pt" "Leonila Pires" "mocpxpf" "Estrada Nacional 17, 2088, 3300-363 Quinta da Cortica" 1987-07-16 15;
+registar veiculo "05-27-RC" "Mota" "Bom" (51.6, 66.4);
+ 
+login "atila_Jesus@gmail.com" "jjlionh";
+alterar disponibilidade ;
+logout;
+
+registar condutor "Sarina-Ramos@hotmail.com" "Sarina Ramos" "lzdojsdgiievopnmdquzwvq" "Rua do Bairro, 2078, 2350-258 Vale da Serra" 1976-06-21 12;
+registar veiculo "36-01-SM" "Carrinha" "Bom" (14.8, 65.8);
+ 
+registar condutor "Dilsa_Sa@gmail.com" "Dilsa Sa" "lmrajiz" "Rua Professor Joao Dias Agudo, 1057, 2665-313 Povoa da Galega" 1955-06-25 89;
+registar veiculo "43-GA-24" "Carrinha" "Mau" (57.1, 77.5);
+ 
+login "Iara.Pereira@gmail.com" "ckkncikgufvoidzogfwyeopa";
+logout;
+
+login "Gervasia_Goncalves@sapo.pt" "bzuhaqmbtacemzmjcjbhn";
+solicitar (76.2, 92.5);
+logout;
+
+registar condutor "ZarcoCruz@gmail.com" "Zarco Cruz" "xrqwualobdeizevap" "Rua da Azenha, 1837, 4990-640 Gandra" 1983-09-22 27;
+registar veiculo "NO-21-26" "Carro" "Muito Bom" (51.8, 44.4);
+ 
+login "LucenaBatista@gmail.com" "dtffomhwkkdlbdduqxuktqovmifej";
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+login "Taxi Independente" "kfqryamzqjtmoejedbqwpnxhpoycz";
+registar veiculo "47-65-IM" "Mota" "Razoavel" (9.0, 68.6);
+ registar veiculo "29-54-JT" "Carro" "Mau" (17.0, 42.6);
+ logout;
+
+login "Taxi Independente" "tpqmh";
+logout;
+
+login "Gamaliel.Fonseca@sapo.pt" "fune";
+logout;
+
+registar condutor "Duilio-Batista@sapo.pt" "Duilio Batista" "nzzjqrrkyfeguvsqpitd" "Rua de Sao Domingos, 1644, 4625-269 Pacos de Gaiolo" 1990-04-10 84;
+registar veiculo "10-87-YW" "Mota" "Muito Mau" (40.5, 51.1);
+ 
+registar condutor "Teresa_Pereira@hotmail.com" "Teresa Pereira" "j" "Rua Norte Junior, 2433, 1950-206 Lisboa" 1986-11-06 58;
+registar veiculo "38-DT-53" "Mota" "Muito Bom" (29.5, 87.6);
+ 
+login "Tarsicio-Oliveira@sapo.pt" "vxvtctp";
+solicitar (59.2, 22.2);
+logout;
+
+login "Primavera Taxi" "jamn";
+logout;
+
+login "Silviana.Pinho@alunos.uminho.pt" "cwqignozsjcivscabyedq";
+logout;
+
+registar cliente "Cipora-Neves@alunos.uminho.pt" "Cipora Neves" "tcafbnnndiguouqjgwtpzkn" "Travessa do Picadouro I, 1629, 4820-735 Aroes (Sao Romao)" 1961-03-05 (29.6, 26.2);
+
+login "Grilo Taxi" "oizpetsadtqqe";
+registar veiculo "40-07-BW" "Mota" "Bom" (87.0, 75.2);
+ logout;
+
+login "Neuza.Simoes@alunos.uminho.pt" "xzdcjvjoqveoxieuimciepbxz";
+solicitar (52.8, 96.2);
+logout;
+
+registar condutor "Jael-Baptista@hotmail.com" "Jael Baptista" "kmowfhtubkiqunuzafsdbkxamkx" ", 2075, 8800-152 Carvalhal" 1971-06-28 65 "Motor Taxi";
+
+login "Bibiana_Branco@hotmail.com" "zgqqseriaeotrwbbpkr";
+logout;
+
+registar condutor "Henoch-Silva@gmail.com" "Henoch Silva" "hyoyjjudvbmlp" "Rua dos Germanos, 1784, 2005-320 Santarem" 1960-09-01 21 "Taxi Suco";
+
+login "Armenio.Barros@sapo.pt" "iftbbrd";
+logout;
+
+registar cliente "Eleuterio.Garcia@sapo.pt" "Eleuterio Garcia" "cdaaptx" "Rua Visconde da Palmeira, 869, 9630-167 Nordeste" 1974-04-05 (92.2, 30.5);
+
+login "Leandro.Araujo@gmail.com" "ndiwotjozlbbpazzqhq";
+logout;
+
+login "Djalma-Simoes@alunos.uminho.pt" "he";
+logout;
+
+registar cliente "ClorindoGuerreiro@gmail.com" "Clorindo Guerreiro" "cekquxmifbkplfjvqquvvjctvclm" "Rua da Varziela, 918, 4860-165 Cavez" 1959-05-22 (48.4, 53.6);
+
+registar condutor "Liberal_Ferreira@alunos.uminho.pt" "Liberal Ferreira" "yfwaqhtdpkgessdzekbkor" "Rua do Pinhal, 1588, 7580-059 Alcacer do Sal" 1979-10-29 80;
+registar veiculo "YC-44-30" "Helicoptero" "Bom" (43.8, 85.0);
+ 
+registar condutor "KevinTorres@gmail.com" "Kevin Torres" "gardwufixh" ", 223, 3740-418 Casal" 1996-03-26 35 "Primavera Taxi";
+
+login "Arcelio.Fonseca@sapo.pt" "wnfrbqgvlotqgidk";
+logout;
+
+login "Taxi Independente" "jhqlyotixweppuowzughwfhkatn";
+registar veiculo "57-LA-44" "Carrinha" "Mau" (11.7, 31.1);
+ registar veiculo "YK-20-82" "Carro" "Bom" (72.6, 86.6);
+ registar veiculo "11-93-JA" "Mota" "Razoavel" (31.5, 72.6);
+ registar veiculo "32-55-HJ" "Carro" "Bom" (61.5, 16.3);
+ logout;
+
+registar condutor "Adonis_Moreira@sapo.pt" "Adonis Moreira" "abuwoleomrifaggd" "Rua do Antigo Mercado, 691, 3830-187 ilhavo" 2000-08-13 13;
+registar veiculo "OT-52-58" "Mota" "Razoavel" (52.6, 63.6);
+ 
+login "Leandro.Araujo@gmail.com" "ndiwotjozlbbpazzqhq";
+logout;
+
+login "Antelmo.Baptista@sapo.pt" "rggynkhlkjedof";
+solicitar (30.6, 93.7);
+logout;
+
+registar condutor "Jader_Mota@gmail.com" "Jader Mota" "dicxft" "Rua Salgueiro Maia, 860, 7580-031 Alcacer do Sal" 1962-03-14 59;
+registar veiculo "HB-10-39" "Carro" "Bom" (40.0, 18.7);
+ 
+login "Taxi Suco" "meepadjizsdfvzlbdxfcarn";
+registar veiculo "QH-85-46" "Helicoptero" "Razoavel" (87.4, 90.1);
+ registar veiculo "31-PW-01" "Helicoptero" "Muito Mau" (92.3, 22.6);
+ registar veiculo "FA-65-99" "Carro" "Razoavel" (29.4, 74.8);
+ registar veiculo "10-RO-27" "Mota" "Muito Mau" (35.2, 9.8);
+ logout;
+
+registar condutor "Indaleta.Barros@alunos.uminho.pt" "Indaleta Barros" "pmxqrgqvqhq" "Rua da Barrela, 2405, 4825-175 Guimarei" 1971-04-17 59;
+registar veiculo "53-RZ-20" "Carro" "Bom" (64.7, 11.9);
+ 
+login "Roadrunner Taxi" "rkstgjcrmcumiatcrkfevpp";
+registar veiculo "BX-44-63" "Mota" "Muito Bom" (70.2, 5.6);
+ registar veiculo "56-35-IC" "Carro" "Bom" (27.5, 65.5);
+ registar veiculo "13-NA-60" "Carro" "Muito Bom" (57.6, 49.0);
+ logout;
+
+login "Roadrunner Taxi" "rkstgjcrmcumiatcrkfevpp";
+registar veiculo "14-EE-36" "Carrinha" "Razoavel" (7.4, 32.7);
+ registar veiculo "66-03-ST" "Carro" "Muito Bom" (61.5, 47.5);
+ logout;
+
+registar cliente "CristianaPaiva@gmail.com" "Cristiana Paiva" "lcm" "Caminho dos Caixinhas, 1437, 2910-216 Setubal" 1979-11-05 (29.7, 77.5);
+
+registar condutor "CristeleGuerreiro@sapo.pt" "Cristele Guerreiro" "jr" "Rua Domingos Tendeiro, 386, 1400-131 Lisboa" 1988-10-03 67 "Primavera Taxi";
+
+registar condutor "Hemiteria_Morais@gmail.com" "Hemiteria Morais" "i" "Rua de Sao Tome, 1454, 4825-264 Monte Cordova" 1967-09-19 100;
+registar veiculo "85-AY-46" "Carro" "Razoavel" (2.9, 9.7);
+ 
+login "Taxi Suco" "meepadjizsdfvzlbdxfcarn";
+logout;
+
+registar cliente "apio-Fernandes@hotmail.com" "apio Fernandes" "qsxgnhzmofnsox" "Rua dos Rebelos, 61, 2125-011 Gloria do Ribatejo" 1965-06-29 (83.6, 49.8);
+
+login "Taxi Suco" "sheusyh";
+registar veiculo "06-BB-66" "Helicoptero" "Bom" (69.2, 92.2);
+ logout;
+
+login "Taxi Independente" "jhqlyotixweppuowzughwfhkatn";
+registar veiculo "KZ-88-79" "Carrinha" "Razoavel" (41.3, 6.0);
+ registar veiculo "AA-08-95" "Helicoptero" "Razoavel" (9.5, 49.4);
+ logout;
+
+login "Grilo Taxi" "oizpetsadtqqe";
+logout;
+
+login "Taxi Suco" "vjgf";
+registar veiculo "94-46-BJ" "Carro" "Bom" (1.8, 42.8);
+ registar veiculo "35-18-BG" "Carrinha" "Razoavel" (4.3, 32.4);
+ logout;
+
+registar empresa "Talk Taxi" "fjcfxirifcrjkkuqfkpccqnbskdc";
+
+login "Iasmin-Esteves@gmail.com" "gqlrezahmykqthsrnxopuqceftfl";
+logout;
+
+registar cliente "Dulcineia-Santos@gmail.com" "Dulcineia Santos" "zfxrvggwmfygblsot" "Beco Jose C. Espirito Santo, 1159, 2510-515 Olho Marinho" 1971-04-16 (64.4, 99.8);
+
+registar empresa "Out Taxi" "hhyj";
+
+registar condutor "Graciano_Pires@hotmail.com" "Graciano Pires" "sikeqlvrirghewhfkclzvt" "Rua Rocha de Brito, 2127, 3040-201 Coimbra" 1987-07-19 80 "Motor Taxi";
+
+login "Taxi Independente" "kfqryamzqjtmoejedbqwpnxhpoycz";
+logout;
+
+registar cliente "Castelina_Monteiro@gmail.com" "Castelina Monteiro" "dtesakxrxdajdtvikvntsyafekr" "Avenida Cidade de Orense, 832, 5000-670 Vila Real" 1955-03-03 (51.4, 10.3);
+
+login "Talk Taxi" "fjcfxirifcrjkkuqfkpccqnbskdc";
+logout;
+
+login "Grilo Taxi" "oizpetsadtqqe";
+registar veiculo "63-TL-03" "Carro" "Bom" (30.5, 45.1);
+ logout;
+
+login "Sabina_Simoes@sapo.pt" "tuyxqaqmnogosyyfboxhjs";
+logout;
+
+login "Heliodora_Pinheiro@sapo.pt" "sh";
+alterar disponibilidade ;
+logout;
+
+login "Indaleta-Gomes@gmail.com" "kienu";
+logout;
+
+login "Razor Taxi" "z";
+logout;
+
+login "XimenaAnjos@hotmail.com" "xzfdaznfybtn";
+solicitar (17.6, 97.4);
+logout;
+
+login "AdrianaDomingues@gmail.com" "ywuwfqltuzn";
+alterar disponibilidade ;
+logout;
+
+login "Neuza.Simoes@alunos.uminho.pt" "xzdcjvjoqveoxieuimciepbxz";
+logout;
+
+registar condutor "Hilma-Cruz@sapo.pt" "Hilma Cruz" "pehalccyoobaohk" "Rua Gorgulho, 686, 9004-537 Funchal" 1998-11-27 35;
+registar veiculo "68-48-DK" "Carro" "Bom" (83.8, 73.6);
+ 
+registar condutor "Sinesio.Guerreiro@hotmail.com" "Sinesio Guerreiro" "tpac" "Caminho da Granja, 974, 5100-024 Lamego" 1969-02-09 87;
+registar veiculo "CT-91-98" "Carro" "Razoavel" (0.0, 92.1);
+ 
+login "apio-Fernandes@hotmail.com" "qsxgnhzmofnsox";
+solicitar (19.3, 99.7);
+solicitar (94.5, 84.2);
+logout;
+
+registar empresa "Taxi Lideres" "mbmufsi";
+
+login "Taxi Independente" "jhqlyotixweppuowzughwfhkatn";
+registar veiculo "MH-52-17" "Carrinha" "Mau" (41.6, 11.1);
+ registar veiculo "19-61-ES" "Mota" "Bom" (0.4, 70.8);
+ registar veiculo "KZ-90-64" "Carro" "Bom" (43.8, 89.1);
+ logout;
+
+registar condutor "Urbino.Oliveira@hotmail.com" "Urbino Oliveira" "afkbrirsfuujzsgdxwgzrdaacvkwc" "Travessa de Sao Joao, 604, 4480-218 Bagunte" 1992-01-23 82;
+registar veiculo "96-HT-31" "Mota" "Bom" (39.7, 2.1);
+ 
+login "Taxi Independente" "tefhghfbwjpj";
+logout;
+
+registar cliente "Zaida_Moreira@gmail.com" "Zaida Moreira" "rjscgedzzqfqud" "Rua Joao Coimbra, 2106, 1400-218 Lisboa" 1971-09-20 (5.9, 38.5);
+
+login "Taxi Suco" "sheusyh";
+registar veiculo "EI-32-70" "Carro" "Bom" (82.6, 34.8);
+ logout;
+
+login "Dulcineia-Santos@gmail.com" "zfxrvggwmfygblsot";
+solicitar (80.9, 66.6);
+logout;
+
+login "Agna.Andrade@hotmail.com" "kgynhd";
+logout;
+
+registar cliente "Verter.Gomes@sapo.pt" "Verter Gomes" "cvcbajyrlppyi" ", 81, 6150-113 Carregal" 1986-01-18 (43.9, 78.7);
+
+login "Taxi Suco" "sheusyh";
+registar veiculo "75-RE-57" "Carro" "Razoavel" (27.4, 93.7);
+ logout;
+
+login "JaniqueAmorim@alunos.uminho.pt" "jzgnmlxkiaqrfegq";
+solicitar (92.8, 19.8);
+logout;
+
+login "Geek Taxi" "odyfsiafmormot";
+registar veiculo "88-26-XL" "Carro" "Razoavel" (18.7, 10.7);
+ logout;
+
+registar empresa "Taxi Grupos" "jlrpwcpehrlyzbrzbqzfoijq";
+
+login "Taxi Suco" "lmr";
+registar veiculo "NI-04-65" "Mota" "Muito Bom" (52.1, 14.5);
+ registar veiculo "69-QH-92" "Carro" "Muito Bom" (78.5, 37.3);
+ logout;
+
+registar condutor "Azuil-Tavares@gmail.com" "Azuil Tavares" "irlnwyeorp" "Rua Vasco da Gama, 1615, 2805-058 Almada" 1991-12-25 83 "Geek Taxi";
+
+registar cliente "CarinaRamos@alunos.uminho.pt" "Carina Ramos" "bfmprxtja" "Rua da Terra Negra, 1781, 4755-370 Paradela" 1969-02-13 (18.4, 80.3);
+
+registar cliente "Edvino.Rocha@alunos.uminho.pt" "Edvino Rocha" "zqheipuzieipuxblasywnl" "Largo Jose Damasceno Campos, 925, 2475-105 Benedita" 1972-04-24 (94.5, 61.2);
+
+registar condutor "Firmo.Lopes@alunos.uminho.pt" "Firmo Lopes" "gylxgamfbyivlkeahflzqkhl" "Beco das Eiras, 2181, 2500-289 Caldas da Rainha" 1987-02-16 67;
+registar veiculo "56-KI-01" "Carrinha" "Mau" (80.1, 42.7);
+ 
+login "DilermandoLourenco@gmail.com" "mwwfvfdwblsrufckqtynfhdzc";
+logout;
+
+login "Primavera Taxi" "eyqsk";
+logout;
+
+registar condutor "Durvalino_Pinheiro@sapo.pt" "Durvalino Pinheiro" "grxqdjkmbq" ", 1903, 7040-111 Horta do Chaveiro" 1979-03-29 94;
+registar veiculo "VO-01-07" "Carro" "Razoavel" (40.7, 29.9);
+ 
+registar condutor "Xenocrates-Garcia@hotmail.com" "Xenocrates Garcia" "fkqszbmgjmwksmhsndbm" ", 570, 6230-160 Quinta do Bilro" 1956-09-25 99;
+registar veiculo "GV-57-80" "Carro" "Razoavel" (84.2, 34.9);
+ 
+login "Ernani_Abreu@alunos.uminho.pt" "jifsmdkruxezzhnokuyiavoj";
+logout;
+
+registar condutor "Lutgarda.Gomes@sapo.pt" "Lutgarda Gomes" "ug" "Caminho de Mondim, 852, 4905-569 Santa Leocadia de Geraz do Lima" 1983-02-07 71 "Grilo Taxi";
+
+login "Jader_Mota@gmail.com" "dicxft";
+alterar disponibilidade ;
+logout;
+
+registar empresa "Talk Taxi" "tuttjtzsdgheujucuvckrclsa";
+
+login "Alamiro.Ribeiro@alunos.uminho.pt" "xpnsrlwfvvmieppfwfofkjnjvgxp";
+logout;
+
+registar condutor "IsabelaTavares@gmail.com" "Isabela Tavares" "khe" "Estrada Sanjurge, 1940, 5400-578 Sanjurge" 1964-02-19 98;
+registar veiculo "89-11-LO" "Helicoptero" "Razoavel" (70.2, 54.5);
+ 
+login "Taxi Suco" "sheusyh";
+registar veiculo "QY-83-46" "Carrinha" "Mau" (84.8, 17.6);
+ registar veiculo "HH-44-22" "Carro" "Muito Bom" (19.9, 0.1);
+ logout;
+
+registar condutor "Florisa_Borges@sapo.pt" "Florisa Borges" "xslkrhqontsiimkv" "Rua Saraiva de Carvalho, 616, 1350-303 Lisboa" 1957-08-04 14 "Taxi Independente";
+
+registar empresa "Primavera Taxi" "pryfinpvumgy";
+
+login "Eutalia_Lima@gmail.com" "lqtrpbjyul";
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+registar condutor "Israel_Sousa@hotmail.com" "Israel Sousa" "xqieiwgpvoxpkfqcjx" "Caminho da Misericordia, 1665, 2525-036 Atouguia da Baleia" 1961-12-10 97;
+registar veiculo "BO-40-75" "Carrinha" "Razoavel" (37.3, 68.1);
+ 
+login "Razor Taxi" "z";
+registar veiculo "26-WF-54" "Carrinha" "Muito Bom" (33.0, 88.3);
+ logout;
+
+login "RuteNascimento@hotmail.com" "rjkeuyxmogkmagzdpeudhwkw";
+logout;
+
+login "Roadrunner Taxi" "qqiyqtngjydlkqkjjuonjd";
+logout;
+
+registar empresa "Taxi Rapido" "tlqtkocblgokagztgjnvcnryummumx";
+
+login "Lutgarda.Gomes@sapo.pt" "ug";
+alterar disponibilidade ;
+logout;
+
+login "Amadeu-Ribeiro@sapo.pt" "uhmroyqrtfbmgizgrgblbxhqfbieq";
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+registar empresa "Geek Taxi" "hpmowggdtfoezoboqfp";
+
+registar condutor "Rosa.Martins@sapo.pt" "Rosa Martins" "vcvuvsjkgimesqzrclc" "Rua do Monte, 473, 4755-250 Goios" 1986-05-07 44;
+registar veiculo "17-CD-13" "Helicoptero" "Razoavel" (51.7, 22.0);
+ 
+login "Grilo Taxi" "oizpetsadtqqe";
+logout;
+
+registar condutor "Tiburcio-Marques@alunos.uminho.pt" "Tiburcio Marques" "yalkspruhmpsuxzcpotnorl" "Rua 25 de Abril, 1398, 2865-712 Fernao Ferro" 1987-06-01 39;
+registar veiculo "98-99-TN" "Carro" "Razoavel" (1.1, 12.4);
+ 
+login "Sr Taxi" "lricyj";
+logout;
+
+login "Taxi Grupos" "jlrpwcpehrlyzbrzbqzfoijq";
+logout;
+
+login "Dimas_Magalhaes@alunos.uminho.pt" "mfeounbnumwmptaboekzajcr";
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+registar cliente "BerardoFerreira@gmail.com" "Berardo Ferreira" "utceed" "Rua Fortunato Marques, 2062, 2970-855 Santana" 1985-10-06 (79.8, 53.7);
+
+login "Geek Taxi" "hpmowggdtfoezoboqfp";
+registar veiculo "YH-64-35" "Helicoptero" "Muito Bom" (45.8, 100.5);
+ logout;
+
+registar condutor "LindaSousa@sapo.pt" "Linda Sousa" "ydtvwmbklnqrhomds" "Rua dos Navegantes, 232, 2695-608 Sao Joao da Talha" 1989-08-09 63 "Grilo Taxi";
+
+registar condutor "Emo.Correia@alunos.uminho.pt" "Emo Correia" "viuczo" "Rua dos Emigrantes, 1495, 6230-531 Pero Viseu" 1997-07-23 80;
+registar veiculo "24-21-AE" "Carrinha" "Muito Bom" (21.7, 27.1);
+ 
+registar condutor "Dora-Cunha@gmail.com" "Dora Cunha" "afwifsqqxbzdalgypxlypluggkkxgr" "Rua de Antonio Emilio de Magalhaes, 592, 4000-090 Porto" 1955-07-09 28;
+registar veiculo "77-16-PI" "Mota" "Razoavel" (5.0, 93.6);
+ 
+registar condutor "VitalioReis@sapo.pt" "Vitalio Reis" "ertjjnmqjojys" "Rua Eusebio da Veiga, 820, 2865-272 Pinhal General" 1967-01-20 23;
+registar veiculo "GZ-19-56" "Helicoptero" "Muito Bom" (20.7, 56.6);
+ 
+login "Out Taxi" "hhyj";
+registar veiculo "51-88-RJ" "Carro" "Bom" (3.1, 97.5);
+ registar veiculo "97-98-OV" "Carro" "Razoavel" (31.3, 66.7);
+ logout;
+
+login "Sandro.Raposo@alunos.uminho.pt" "eybvddvgptogdhbyuefwdhg";
+logout;
+
+registar empresa "Taxi Parceiro" "kxvpjkkvtobnkekyotbxbfo";
+
+login "GoncalaFernandes@gmail.com" "evjrpyaakjwpplnqrnlsxsgulq";
+logout;
+
+login "Polibe-Maia@sapo.pt" "oboyeyuhibkwotmwqntdn";
+solicitar (13.3, 4.0);
+logout;
+
+login "Taxi Grupos" "jlrpwcpehrlyzbrzbqzfoijq";
+registar veiculo "RH-49-31" "Carro" "Muito Bom" (0.5, 28.0);
+ registar veiculo "64-39-OS" "Carro" "Bom" (16.9, 100.1);
+ registar veiculo "CG-70-01" "Carrinha" "Muito Bom" (78.4, 3.5);
+ registar veiculo "90-26-WB" "Carro" "Razoavel" (33.7, 75.6);
+ logout;
+
+login "Aquiles.Freitas@hotmail.com" "gfd";
+logout;
+
+registar cliente "Basilissa_Sa@gmail.com" "Basilissa Sa" "hggbxuhfjmxhwfeslkczyxibdv" "Rua Central de Anho Bom, 1030, 4560-112 Fonte Arcada" 1977-03-01 (27.5, 88.0);
+
+login "Taxi Suco" "pffvzflajitjhuiplkwtpdshua";
+registar veiculo "98-74-QU" "Carrinha" "Razoavel" (99.4, 6.5);
+ registar veiculo "58-98-MY" "Mota" "Muito Bom" (49.6, 74.1);
+ logout;
+
+registar empresa "Taxi Parceiro" "odoicqbpoh";
+
+registar condutor "Cesaro_Pinho@sapo.pt" "Cesaro Pinho" "najnyesxwoqkaszxwhm" "Auto-Estrada 12, 197, 2955-380 Pinhal Novo" 1977-01-04 21 "Out Taxi";
+
+registar condutor "Colete.Araujo@gmail.com" "Colete Araujo" "bgpavjnqwwsuakmwyklo" "Travessa de Santa Barbara, 1971, 5060-323 Sabrosa" 2000-07-16 40;
+registar veiculo "51-SQ-34" "Carro" "Bom" (98.1, 9.2);
+ 
+registar condutor "IvoBarros@alunos.uminho.pt" "Ivo Barros" "rsprxvg" "Rua Eca de Queiros, 172, 2685-200 Portela" 1970-09-20 37;
+registar veiculo "HN-16-15" "Carro" "Mau" (48.9, 90.3);
+ 
+registar cliente "Ferrer_Simoes@hotmail.com" "Ferrer Simoes" "xxsydulmmfmhetwhlr" "Rua de Timor, 1294, 2620-065 Olival Basto" 1999-03-13 (29.4, 3.5);
+
+login "aquila.Cruz@alunos.uminho.pt" "il";
+logout;
+
+registar empresa "Taxi Suco" "nwixctdhghdlkogwckykhcygc";
+
+login "Castelina_Monteiro@gmail.com" "dtesakxrxdajdtvikvntsyafekr";
+solicitar (63.4, 65.0);
+solicitar (15.6, 83.0);
+solicitar (33.4, 15.0);
+solicitar (89.4, 99.0);
+logout;
+
+registar condutor "EleonoraLeite@hotmail.com" "Eleonora Leite" "rwzcjpmikzssxmjfraymjplntina" "Caminho de Vale Carros, 15, 2580-652 Ota" 1992-01-01 15;
+registar veiculo "EY-47-20" "Carro" "Mau" (88.4, 21.8);
+ 
+login "Viviane_Amorim@alunos.uminho.pt" "mzgvwuocehmtyyhumgreyfwl";
+logout;
+
+registar empresa "Taxi Worth" "yaxoorypzch";
+
+registar cliente "Carminda.Maia@gmail.com" "Carminda Maia" "wxbpowuraurxibail" "Travessa Doutor Juvenal, 1543, 9060-148 Funchal" 1957-04-11 (4.0, 26.9);
+
+login "Secundino_Soares@gmail.com" "rmwlpxldqs";
+logout;
+
+registar condutor "Benilde_Raposo@hotmail.com" "Benilde Raposo" "vembmiqa" "Rua do Outeiro, 2108, 5040-173 Cidadelhe" 1976-03-08 33 "Taxi e Amigos";
+
+login "Jordano_Matias@sapo.pt" "jhjsqoqojnzknwyxtznzdfl";
+solicitar (81.7, 12.1);
+solicitar (53.0, 0.9);
+logout;
+
+registar condutor "AquiraNeves@gmail.com" "Aquira Neves" "jactvlkea" "Rua do Planalto de Quintela, 2268, 4705-330 Braga" 1985-11-18 12 "Out Taxi";
+
+login "Roadrunner Taxi" "qqiyqtngjydlkqkjjuonjd";
+registar veiculo "49-YE-82" "Carro" "Mau" (95.6, 36.3);
+ registar veiculo "54-XK-18" "Carrinha" "Muito Bom" (60.2, 88.1);
+ registar veiculo "UN-01-10" "Carro" "Razoavel" (80.2, 22.8);
+ logout;
+
+login "Lutgarda.Gomes@sapo.pt" "ug";
+alterar disponibilidade ;
+logout;
+
+login "Hilario_Torres@alunos.uminho.pt" "dzawyfdslmictvjpwhvf";
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+registar condutor "Ilca-Almeida@alunos.uminho.pt" "Ilca Almeida" "htifscccvvwxrjzmiuxrbirlp" "Praca Machado dos Santos, 856, 4440-511 Valongo" 1956-04-08 39 "Talk Taxi";
+
+registar condutor "Brasia-Monteiro@hotmail.com" "Brasia Monteiro" "tvhzudfsibpjoocevu" "Rua das Flores, 1313, 4935-580 Chafe" 1985-05-21 95;
+registar veiculo "KK-93-01" "Carro" "Bom" (39.8, 17.0);
+ 
+login "GilmaMota@alunos.uminho.pt" "soeloxoqksakju";
+solicitar (36.3, 85.0);
+solicitar (32.1, 24.5);
+logout;
+
+registar cliente "TeofiloCoelho@sapo.pt" "Teofilo Coelho" "heqdpumjhlkpnjbkljtbiefpokqlrv" ", 358, 4960-310 Pomar" 1958-12-09 (40.0, 6.6);
+
+registar condutor "FilipeouFelipeAbreu@hotmail.com" "FilipeouFelipe Abreu" "zkhoqmthpveowtfikmbjvnkbxmh" "Rua 5 de Outubro, 1298, 3700-085 Sao Joao da Madeira" 1959-07-25 69;
+registar veiculo "BZ-33-22" "Carro" "Muito Bom" (39.8, 31.7);
+ 
+registar condutor "Janai-Paiva@sapo.pt" "Janai Paiva" "izlblsgjbkefbgynakjoqakkb" "Travessa das Flores, 1064, 2590-401 Sapataria" 1967-03-29 47;
+registar veiculo "36-WQ-97" "Carro" "Razoavel" (95.1, 21.6);
+ 
+login "Fatima-Matos@gmail.com" "gqcnvuxdppjslj";
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+registar cliente "Debora-Borges@gmail.com" "Debora Borges" "fmzsqjdfylczkfdgvetonghlrhfqsj" "Calcada de Casal Bom, 1926, 4625-428 Sande" 1968-11-25 (13.9, 88.7);
+
+registar condutor "IsaacSa@sapo.pt" "Isaac Sa" "vvlfmrpxrhofphecbvqdazs" ", 385, 3130-550 Valouro" 1963-01-27 51;
+registar veiculo "03-WD-81" "Carro" "Razoavel" (69.7, 35.0);
+ 
+registar condutor "Liberia-Miranda@alunos.uminho.pt" "Liberia Miranda" "ootslyldoymolg" "Rua Alferes Mota da Costa, 777, 1800-010 Lisboa" 1968-10-19 95;
+registar veiculo "30-GY-29" "Carro" "Bom" (51.0, 38.8);
+ 
+registar cliente "Carina-Alves@alunos.uminho.pt" "Carina Alves" "ecn" "Rua de Sao Lourenco, 859, 3720-162 Oliveira de Azemeis" 1955-06-13 (20.4, 11.0);
+
+registar cliente "Tanagra.Jesus@sapo.pt" "Tanagra Jesus" "zqcjmyin" "Largo da Redonda, 1490, 4580-270 Paredes" 1995-06-10 (90.8, 82.6);
+
+registar condutor "Paula-Carneiro@gmail.com" "Paula Carneiro" "thkzuhsjtulxxekiugmpx" "Travessa de Francos, 669, 4250-221 Porto" 1956-10-08 67;
+registar veiculo "47-AD-97" "Carro" "Razoavel" (53.8, 99.3);
+ 
+registar cliente "Jacqueline.Mendes@alunos.uminho.pt" "Jacqueline Mendes" "mtdlamatlugsjtoogajmf" "Rua do Morais, 1939, 4490-105 Povoa de Varzim" 1986-05-17 (66.8, 55.3);
+
+registar condutor "Valentina-Pires@sapo.pt" "Valentina Pires" "o" "Rua da Casa do Povo, 29, 2380-549 Malhou" 1979-01-23 39;
+registar veiculo "41-BA-61" "Carrinha" "Muito Bom" (81.0, 45.5);
+ 
+registar condutor "UbaldinoFigueiredo@alunos.uminho.pt" "Ubaldino Figueiredo" "pymbfaoedstrmzipeeggzjgouzduuj" "Rua de Vila Verde, 120, 4420-589 Valbom" 1958-12-15 20 "Primavera Taxi";
+
+registar empresa "Razor Taxi" "vzqtjyxccxbxuvx";
+
+registar condutor "ValeriaMacedo@hotmail.com" "Valeria Macedo" "xulyxtvmizpllzpgrpxqirmhfxrfe" "Rua Engenheiro Rui Ferro Mayer, 22, 2070-587 Vale da Pinta" 1975-11-14 62;
+registar veiculo "45-XN-90" "Carro" "Razoavel" (27.2, 47.7);
+ 
+login "Sr Taxi" "ptyqeaxvyfbovc";
+logout;
+
+login "Amos.Marques@hotmail.com" "gcilnrgxghwqcgxn";
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+login "Iara.Pereira@gmail.com" "ckkncikgufvoidzogfwyeopa";
+solicitar (41.6, 20.1);
+solicitar (12.2, 23.0);
+solicitar (40.6, 4.7);
+solicitar (96.6, 58.7);
+solicitar (19.3, 23.1);
+logout;
+
+login "Taxi Rapido" "tlqtkocblgokagztgjnvcnryummumx";
+logout;
+
+login "Ferrer.Amaral@sapo.pt" "egeelecbepy";
+solicitar (56.4, 82.4);
+solicitar (16.3, 88.0);
+solicitar (99.7, 74.2);
+solicitar (99.4, 19.3);
+solicitar (82.4, 83.6);
+solicitar (79.5, 40.1);
+logout;
+
+login "Taxi Grupos" "ycqdjslaueplygnpiugsigwvodd";
+logout;
+
+registar condutor "AfraGoncalves@alunos.uminho.pt" "Afra Goncalves" "tfqhvb" "Rua das Escadinhas, 1016, 6060-598 Zebreira" 1971-10-28 83 "Taxi Suco";
+
+login "Taxi Suco" "sheusyh";
+logout;
+
+registar condutor "Febe-Faria@alunos.uminho.pt" "Febe Faria" "kxomvmwhyuyfhgypwl" "Rua da Penha Longa, 88, 4585-003 Aguiar de Sousa" 1970-01-15 86;
+registar veiculo "66-BB-87" "Helicoptero" "Razoavel" (20.0, 26.7);
+ 
+registar empresa "Grilo Taxi" "hmola";
+
+login "Taxi e Amigos" "xyhpkegrloqojsxlwlpqc";
+logout;
+
+registar condutor "Alcindo-Cardoso@gmail.com" "Alcindo Cardoso" "vcsdbcxps" "Rua do Barreiro, 1970, 2415-722 Leiria" 1993-01-24 48;
+registar veiculo "10-IZ-55" "Carro" "Muito Bom" (33.5, 9.1);
+ 
+registar cliente "Catarino_Cardoso@gmail.com" "Catarino Cardoso" "pasuzgfxzznorzf" "Largo 25 de Abril, 227, 7460-202 Vale Maceiras" 1988-01-11 (39.1, 81.7);
+
+registar cliente "Abrao.Leal@gmail.com" "Abrao Leal" "szrytwlyrvhwu" "Praceta Joaquim Fernandes Gomes, 1824, 4400-139 Vila Nova de Gaia" 1999-05-04 (40.2, 70.6);
+
+registar condutor "Joaninha.Tavares@sapo.pt" "Joaninha Tavares" "dyjwhpkzkrdxvmhdjtzzklvneplyfd" ", 1781, 5400-010 Cando" 1994-05-26 54;
+registar veiculo "FT-16-46" "Helicoptero" "Muito Mau" (68.7, 45.8);
+ 
+registar condutor "JosePinto@gmail.com" "Jose Pinto" "eugqb" "Rua Doutor Fausto Lobo, 2294, 3220-202 Miranda do Corvo" 1957-01-25 10;
+registar veiculo "57-79-ES" "Carrinha" "Muito Bom" (72.5, 89.5);
+ 
+login "DelminaSantos@sapo.pt" "dfty";
+logout;
+
+login "Grilo Taxi" "hmola";
+logout;
+
+login "BriciaTavares@hotmail.com" "pxswn";
+solicitar (87.5, 55.0);
+solicitar (46.2, 99.9);
+logout;
+
+registar condutor "Jalmira.Lopes@hotmail.com" "Jalmira Lopes" "rhrcwjabrcynfadkchhyyiqpuio" "Rua de Costa Cabral, 2016, 4200-229 Porto" 1993-02-12 46;
+registar veiculo "45-16-YS" "Mota" "Razoavel" (94.1, 48.4);
+ 
+registar cliente "Safira_Tavares@gmail.com" "Safira Tavares" "euiejxzwkenlmw" "Avenida Nuno Krus Abecassis, 1366, 1750-456 Lisboa" 1980-08-19 (28.8, 29.5);
+
+registar cliente "Armenio-Figueiredo@alunos.uminho.pt" "Armenio Figueiredo" "esaqfahsbavnwtozypsi" "Rua das Flores, 1858, 4760-311 Vila Nova de Famalicao" 1958-09-14 (58.9, 1.8);
+
+registar condutor "OrlandoCampos@gmail.com" "Orlando Campos" "bfgraeq" "Caminho do Ribeiro, 1954, 4640-267 Gove" 1983-10-26 36 "Roadrunner Taxi";
+
+login "Taxi Grupos" "ycqdjslaueplygnpiugsigwvodd";
+logout;
+
+registar condutor "AvelinoAntunes@sapo.pt" "Avelino Antunes" "jdpqulu" "Rua Infante Dom Pedro, 2344, 4440-378 Sobrado" 1977-04-17 68;
+registar veiculo "65-GT-28" "Carro" "Muito Mau" (88.8, 7.6);
+ 
+registar cliente "Tulipa_Anjos@hotmail.com" "Tulipa Anjos" "oesnjkuhcobihznzgrieccxidi" "Rua do Castanhal, 1170, 4920-300 Vila Nova de Cerveira" 1987-07-24 (45.9, 84.3);
+
+registar condutor "HoraciaFaria@hotmail.com" "Horacia Faria" "nluxnzqhqizgpba" "Avenida Quinta das Laranjeiras, 1311, 2865-688 Quinta das Laranjeiras" 1986-09-01 21;
+registar veiculo "ZK-11-15" "Mota" "Razoavel" (59.8, 33.9);
+ 
+registar condutor "Katie-Pereira@hotmail.com" "Katie Pereira" "shuithqpzisdfmyfspdxoe" "Rua de Olivenca, 878, 7780-174 Castro Verde" 1963-09-30 74;
+registar veiculo "81-95-RA" "Carro" "Razoavel" (59.3, 46.6);
+ 
+registar empresa "Primavera Taxi" "xwpugomwavzmqmz";
+
+registar condutor "DanielaNunes@hotmail.com" "Daniela Nunes" "ebobukdgwqdfifulhbrfedj" "Rua dos Campos, 1468, 2565-320 Freiria" 1980-01-07 32;
+registar veiculo "46-TI-72" "Carro" "Bom" (84.2, 17.7);
+ 
+login "Zahra.Ramos@hotmail.com" "dpdvomn";
+logout;
+
+login "Geek Taxi" "iinkuczghxhycbnbcaoepaysolcobt";
+registar veiculo "BJ-60-74" "Carro" "Bom" (89.3, 95.0);
+ registar veiculo "70-99-OR" "Carro" "Muito Bom" (18.3, 93.6);
+ registar veiculo "49-HT-00" "Carro" "Muito Bom" (20.7, 36.4);
+ registar veiculo "85-PB-49" "Mota" "Bom" (96.7, 36.5);
+ registar veiculo "65-IG-75" "Helicoptero" "Mau" (81.6, 48.3);
+ logout;
+
+registar condutor "Fabiana-Henriques@alunos.uminho.pt" "Fabiana Henriques" "mdkfkfyakeejcaevdce" ", 381, 4960-428 Barreiros" 1979-10-26 52;
+registar veiculo "93-QS-68" "Helicoptero" "Razoavel" (45.3, 18.1);
+ 
+registar condutor "Haide-Anjos@gmail.com" "Haide Anjos" "qxyczeubjznivoxvrkfx" "Rua 25 de Abril, 2416, 2625-717 Vialonga" 1980-01-19 60;
+registar veiculo "71-UR-37" "Carrinha" "Mau" (31.8, 74.6);
+ 
+registar cliente "Gildo.Pacheco@gmail.com" "Gildo Pacheco" "odisdcb" "Avenida Doutor Antonio Jose de Almeida, 604, 3510-045 Viseu" 1955-04-25 (62.4, 78.9);
+
+login "Cipora-Neves@alunos.uminho.pt" "tcafbnnndiguouqjgwtpzkn";
+solicitar (96.2, 65.8);
+solicitar (40.0, 95.3);
+logout;
+
+registar cliente "Natividade-Martins@gmail.com" "Natividade Martins" "asbzich" "Rua Afonso Costa, 1888, 4480-845 Vila do Conde" 1996-02-25 (8.2, 76.9);
+
+login "Udo_Amorim@gmail.com" "jytezmicrplvoposyqmjlhzlg";
+logout;
+
+registar cliente "Chloe_Raposo@sapo.pt" "Chloe Raposo" "nrpuns" "Rua da Fonte, 1118, 2410-286 Leiria" 2000-01-10 (82.5, 62.4);
+
+registar condutor "Enide_Rodrigues@alunos.uminho.pt" "Enide Rodrigues" "mojepopqhy" "Largo da Mao Pedrosa, 1895, 4495-312 Povoa de Varzim" 1960-04-28 88 "Taxi Worth";
+
+registar empresa "Taxi Independente" "irorqzkxmwmvoizyuwsof";
+
+login "Liberia-Miranda@alunos.uminho.pt" "ootslyldoymolg";
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+login "AvelinoAntunes@sapo.pt" "jdpqulu";
+logout;
+
+login "Dimas_Magalhaes@alunos.uminho.pt" "mfeounbnumwmptaboekzajcr";
+alterar disponibilidade ;
+logout;
+
+registar empresa "Taxi Independente" "rbeitvhhokdxdbcnjfxqsuv";
+
+login "Abelardo-Neves@hotmail.com" "jqbb";
+logout;
+
+login "Joaninha.Tavares@sapo.pt" "dyjwhpkzkrdxvmhdjtzzklvneplyfd";
+logout;
+
+registar cliente "FernaoMoreira@sapo.pt" "Fernao Moreira" "miqthbxdmwogpsqeblsrcggrgrcplp" "Rua de Muscosa, 964, 4635-773 Constance" 1963-12-07 (44.5, 57.6);
+
+login "Taxi Parceiro" "odoicqbpoh";
+registar veiculo "77-WI-53" "Carro" "Mau" (19.3, 30.4);
+ logout;
+
+login "Taxi Suco" "nwixctdhghdlkogwckykhcygc";
+registar veiculo "SR-98-85" "Carro" "Muito Bom" (84.0, 32.4);
+ logout;
+
+registar condutor "Clelio-Coelho@sapo.pt" "Clelio Coelho" "ueztjmarorr" "Travessa Professor Joao Ferraz, 1577, 4700-018 Sao Paio Merelim" 1974-08-04 24;
+registar veiculo "88-IM-39" "Carro" "Muito Bom" (52.6, 26.0);
+ 
+registar cliente "Fedra_Pinho@gmail.com" "Fedra Pinho" "sxmgm" "Rua Antonio Oliveira Rodrigues, 427, 3865-207 Salreu" 1963-08-18 (96.4, 10.2);
+
+login "Tarsicio-Oliveira@sapo.pt" "vxvtctp";
+solicitar (8.7, 91.9);
+solicitar (80.3, 8.5);
+logout;
+
+login "Tulipa_Anjos@hotmail.com" "oesnjkuhcobihznzgrieccxidi";
+logout;
+
+login "Armenio-Figueiredo@alunos.uminho.pt" "esaqfahsbavnwtozypsi";
+logout;
+
+login "Taxi Grupos" "ycqdjslaueplygnpiugsigwvodd";
+logout;
+
+registar condutor "Darcilia_Borges@sapo.pt" "Darcilia Borges" "ztjikhbiqhjulzuabw" "Bairro Nossa Senhora de Fatima, 2086, 3780-594 Poutena" 1968-08-13 89;
+registar veiculo "82-YC-47" "Carro" "Razoavel" (40.9, 75.6);
+ 
+registar empresa "Taxi Grupos" "nlyanyvoianropamjerf";
+
+registar condutor "Irmino_Faria@gmail.com" "Irmino Faria" "wryakfcnn" "Rua Maria Carolina Sampaio, 404, 4775-434 Nine" 1982-01-22 15;
+registar veiculo "RB-69-15" "Carro" "Muito Bom" (62.4, 91.9);
+ 
+login "Gioconda_Brito@sapo.pt" "cgxzuqfcocpjl";
+solicitar (14.9, 57.9);
+solicitar (27.8, 28.1);
+solicitar (60.2, 49.1);
+solicitar (0.0, 96.9);
+solicitar (89.0, 78.0);
+solicitar (34.6, 82.8);
+solicitar (45.6, 47.6);
+logout;
+
+login "Debora-Borges@gmail.com" "fmzsqjdfylczkfdgvetonghlrhfqsj";
+logout;
+
+login "Jacqueline.Mendes@alunos.uminho.pt" "mtdlamatlugsjtoogajmf";
+solicitar (74.5, 43.6);
+solicitar (62.3, 5.3);
+solicitar (48.2, 52.3);
+solicitar (39.4, 47.3);
+logout;
+
+registar empresa "Taxi Independente" "zxgubtcfsvwo";
+
+login "Eliano.Ferreira@hotmail.com" "dqcmqvocdtegsvypckebwxdj";
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+login "Antelmo.Baptista@sapo.pt" "rggynkhlkjedof";
+logout;
+
+login "Redwood Taxi" "xfckuohfftbydjivadmqarad";
+logout;
+
+login "Almara_Rocha@sapo.pt" "skbj";
+logout;
+
+registar cliente "Brites.Pacheco@hotmail.com" "Brites Pacheco" "kaywuxdp" "Avenida do Conde, 364, 4465-097 Sao Mamede de Infesta" 1959-01-16 (19.9, 56.2);
+
+registar empresa "Sr Taxi" "ncsiaqnhndzzqyvbrjgevjfkx";
+
+registar cliente "AronSousa@hotmail.com" "Aron Sousa" "tqqte" "Largo das Forcas Armadas, 2148, 2970-095 Alfarim" 1985-06-01 (91.6, 73.7);
+
+login "Gerda.Vaz@hotmail.com" "jgpbpthkfqfoieoxwkzwirbwdyzn";
+solicitar (26.7, 3.1);
+logout;
+
+registar cliente "Nuno_Pinheiro@sapo.pt" "Nuno Pinheiro" "rsuri" "Beco da Lavandeira, 6, 4560-807 Sao Martinho de Recezinhos" 1971-09-17 (90.1, 81.5);
+
+login "Antonieta.Magalhaes@hotmail.com" "uvlahkfjzukoxg";
+logout;
+
+login "DionildeDomingues@hotmail.com" "ehkdmkoepmuctjhntwuizw";
+solicitar (81.6, 10.5);
+solicitar (56.2, 58.1);
+logout;
+
+registar condutor "Denil.Freitas@sapo.pt" "Denil Freitas" "mnvuqtudspjwniwpqy" "Largo Santo Antonio, 2149, 3405-320 Lajeosa" 1991-12-14 70;
+registar veiculo "GC-21-29" "Helicoptero" "Muito Bom" (84.7, 17.2);
+ 
+login "BerardoFerreira@gmail.com" "utceed";
+solicitar (18.3, 86.8);
+logout;
+
+registar empresa "Taxi Parceiro" "ygtj";
+
+registar cliente "GracianaGoncalves@sapo.pt" "Graciana Goncalves" "gunoeaxlcubxncxlcfofhpiw" "Rua Dom Afonso Henriques, 1762, 2695-691 Sao Joao da Talha" 1995-12-30 (95.8, 29.6);
+
+registar cliente "Daniel.Henriques@hotmail.com" "Daniel Henriques" "itwkbyr" "Rua Alfredo Cortes, 1691, 1700-026 Lisboa" 1980-11-27 (77.8, 92.9);
+
+login "Taxi Grupos" "nlyanyvoianropamjerf";
+logout;
+
+registar condutor "Delia_Abreu@gmail.com" "Delia Abreu" "cvpwqzubsoaecfctdpmzbcqkcpbi" "Avenida Jacaranda, 437, 8700-581 Quelfes" 1980-10-01 55;
+registar veiculo "94-10-LI" "Mota" "Bom" (24.6, 68.0);
+ 
+registar empresa "Taxi e Amigos" "hiytflqi";
+
+login "Silviana.Pinho@alunos.uminho.pt" "cwqignozsjcivscabyedq";
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+registar cliente "EuridicePinho@hotmail.com" "Euridice Pinho" "ogcjhukdmpsbfebxbcaalj" "Rua dos Chaloes, 1568, 2240-123 Menexas" 1980-07-04 (100.9, 65.9);
+
+login "Taxi Suco" "meepadjizsdfvzlbdxfcarn";
+registar veiculo "83-96-FP" "Carro" "Mau" (77.3, 12.6);
+ logout;
+
+registar cliente "Caia_Anjos@alunos.uminho.pt" "Caia Anjos" "ooqdrsmbecgyktnxybunjyltsg" "Rua Quinta do Viso, 585, 4460-479 Senhora da Hora" 1991-03-04 (88.1, 58.3);
+
+login "SextinaFonseca@alunos.uminho.pt" "dcrxkxrnjmjhisvezhdouxwhtbbt";
+alterar disponibilidade ;
+logout;
+
+login "Nuno_Pinheiro@sapo.pt" "rsuri";
+logout;
+
+registar condutor "Jociano-Nogueira@alunos.uminho.pt" "Jociano Nogueira" "bozmhfhbpprr" ", 528, 3300-433 Porto Delgado" 1985-07-30 63 "Talk Taxi";
+
+login "DialinaSoares@sapo.pt" "ybjhbencnvfddcl";
+logout;
+
+registar condutor "elton.Garcia@gmail.com" "elton Garcia" "difmyyntljuesfdpqwlsyqgz" "Rua Sophia de Mello Breyner Andresen, 1462, 2950-352 Palmela" 1976-03-12 71;
+registar veiculo "EQ-49-87" "Carro" "Razoavel" (75.6, 55.5);
+ 
+login "Baldemar-Branco@alunos.uminho.pt" "uj";
+solicitar (99.7, 63.2);
+logout;
+
+registar condutor "Mauricio.Martins@gmail.com" "Mauricio Martins" "xridqdzjgetj" "Rua Vinha do Cano, 2109, 2670-652 Bucelas" 1960-08-20 30;
+registar veiculo "DC-17-82" "Carrinha" "Razoavel" (12.2, 43.2);
+ 
+login "Sr Taxi" "lricyj";
+logout;
+
+registar cliente "Barbara_Branco@sapo.pt" "Barbara Branco" "moftdgfxadvfisxzjalytizamawm" "Rua Afonso Gomes Teixeira, 23, 4430-698 Vila Nova de Gaia" 1978-11-18 (100.0, 34.5);
+
+login "NormandoLeite@sapo.pt" "iyrybhjvxeawtbldlnuaxelvn";
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+login "Taxi Independente" "p";
+registar veiculo "18-86-EU" "Mota" "Muito Mau" (82.6, 8.9);
+ registar veiculo "AG-68-83" "Mota" "Muito Mau" (70.1, 19.5);
+ registar veiculo "07-95-HK" "Carro" "Bom" (59.9, 87.8);
+ registar veiculo "24-GA-45" "Carrinha" "Mau" (59.9, 2.1);
+ logout;
+
+registar cliente "Durval_Maia@hotmail.com" "Durval Maia" "beqd" "Rua da Sagrada Familia, 903, 4570-441 Rates" 1979-12-11 (58.4, 49.2);
+
+registar condutor "Lila.Sa@sapo.pt" "Lila Sa" "sogicnnoioufhxskyjcuzmdsxckfie" "Avenida Doutor Roberto Ferreira da Fonseca, 2455, 2120-116 Salvaterra de Magos" 1971-01-09 68;
+registar veiculo "83-CW-13" "Carrinha" "Razoavel" (91.1, 15.2);
+ 
+login "Jaques_Reis@sapo.pt" "jd";
+logout;
+
+registar empresa "Primavera Taxi" "pvgjblfqzmjamuqxzxnlpygdnnnqlk";
+
+login "Roadrunner Taxi" "rkstgjcrmcumiatcrkfevpp";
+logout;
+
+registar condutor "IdavideMarques@alunos.uminho.pt" "Idavide Marques" "uovclpmsuawilblekyjyatyuxq" "Viela de Casal Maria, 646, 4480-321 Junqueira" 1983-07-27 22;
+registar veiculo "44-BN-69" "Helicoptero" "Razoavel" (52.5, 37.8);
+ 
+login "Taxi Cidade" "webha";
+registar veiculo "ZX-21-77" "Helicoptero" "Muito Bom" (54.7, 31.4);
+ registar veiculo "76-RR-20" "Carro" "Bom" (59.9, 100.9);
+ registar veiculo "BY-28-07" "Mota" "Muito Mau" (23.3, 41.3);
+ registar veiculo "24-71-FK" "Carro" "Razoavel" (70.8, 84.6);
+ logout;
+
+login "Taxi Independente" "jhqlyotixweppuowzughwfhkatn";
+logout;
+
+registar cliente "alia.Campos@hotmail.com" "alia Campos" "itophankoiha" "Rua 5 de Outubro, 35, 4465-550 Leca do Balio" 1981-04-09 (37.4, 15.7);
+
+registar empresa "Taxi Lideres" "pbxz";
+
+login "Eleuterio.Garcia@sapo.pt" "cdaaptx";
+solicitar (93.9, 36.9);
+solicitar (74.0, 24.5);
+logout;
+
+registar cliente "PolibeGarcia@alunos.uminho.pt" "Polibe Garcia" "qnlnixoytvadxjfi" "Largo das Boucinhas, 680, 4635-013 Banho e Carvalhosa" 1998-04-01 (80.6, 88.9);
+
+login "Grilo Taxi" "hmola";
+registar veiculo "50-BR-38" "Mota" "Razoavel" (71.0, 50.1);
+ logout;
+
+login "Carmorinda_Matias@hotmail.com" "yydmmsgkxpjenspg";
+logout;
+
+login "Chloe_Raposo@sapo.pt" "nrpuns";
+logout;
+
+login "Heliodora_Pinheiro@sapo.pt" "sh";
+alterar disponibilidade ;
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+registar cliente "ErmeriaMagalhaes@hotmail.com" "Ermeria Magalhaes" "zldesenssvefxu" "Rua Oliveira Cadornega, 2499, 1950-210 Lisboa" 1973-06-21 (39.3, 32.1);
+
+registar cliente "Ivete.Faria@hotmail.com" "Ivete Faria" "cehoh" "Rua Joao de Meneses, 2171, 1900-267 Lisboa" 1993-01-02 (22.4, 0.7);
+
+registar cliente "IngeburgaTavares@alunos.uminho.pt" "Ingeburga Tavares" "gfaiyvjzyphzbcbcgvahrkm" "Praca da Republica, 1344, 7940-119 Cuba" 1959-11-15 (74.3, 34.2);
+
+login "Ferrer.Amaral@sapo.pt" "egeelecbepy";
+solicitar (82.3, 10.1);
+logout;
+
+registar cliente "Rubim-Carvalho@hotmail.com" "Rubim Carvalho" "phlpkhsfyyfzpjirufhqkgbt" "Rua 186 de Maio, 914, 7800-510 Beja" 1988-06-12 (98.1, 48.4);
+
+login "Gamaliel.Fonseca@sapo.pt" "fune";
+solicitar (4.7, 50.5);
+solicitar (8.1, 82.1);
+solicitar (10.6, 38.7);
+solicitar (62.5, 73.5);
+logout;
+
+login "Talk Taxi" "fjcfxirifcrjkkuqfkpccqnbskdc";
+registar veiculo "EX-78-65" "Carrinha" "Muito Mau" (82.1, 42.9);
+ registar veiculo "DG-12-94" "Carro" "Razoavel" (38.8, 9.3);
+ registar veiculo "26-VG-79" "Carrinha" "Mau" (55.0, 86.5);
+ registar veiculo "SH-86-64" "Carro" "Bom" (10.2, 72.7);
+ logout;
+
+registar cliente "Higina_Nunes@gmail.com" "Higina Nunes" "zlvmbjvqigadfuqytappcehsjwvptw" "Rua Antero de Quental, 2394, 2620-087 Povoa de Santo Adriao" 1989-08-30 (79.0, 78.4);
+
+login "Taxi Independente" "kfqryamzqjtmoejedbqwpnxhpoycz";
+logout;
+
+login "Helda.Castro@hotmail.com" "fbtyxcuufergmjuor";
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+login "aquila.Cruz@alunos.uminho.pt" "il";
+solicitar (51.9, 98.1);
+solicitar (66.5, 16.7);
+solicitar (92.0, 41.3);
+logout;
+
+login "DionildeDomingues@hotmail.com" "ehkdmkoepmuctjhntwuizw";
+solicitar (76.7, 95.0);
+solicitar (40.6, 27.5);
+solicitar (77.1, 4.9);
+logout;
+
+registar empresa "Motor Taxi" "opsxiuizgvkpncioifz";
+
+registar condutor "JanuarioSa@hotmail.com" "Januario Sa" "ojnuf" "Avenida do Arraial, 1549, 2350-430 Torres Novas" 1966-08-07 23;
+registar veiculo "29-07-RU" "Carro" "Bom" (5.9, 58.1);
+ 
+registar condutor "DircilaLima@hotmail.com" "Dircila Lima" "sagfvzfsujbcfboavoqaalktwqnosl" "Avenida Principal, 347, 2970-147 Caixas" 1993-09-25 88;
+registar veiculo "16-OI-24" "Carrinha" "Muito Bom" (3.4, 33.7);
+ 
+login "Silviana.Pinho@alunos.uminho.pt" "cwqignozsjcivscabyedq";
+alterar disponibilidade ;
+logout;
+
+registar condutor "Ciro.Fernandes@gmail.com" "Ciro Fernandes" "cuhxhrdphkvttrurb" "Travessa da Capela, 1977, 4830-185 Ferreiros" 1983-09-20 96;
+registar veiculo "28-42-JM" "Mota" "Muito Bom" (54.8, 32.9);
+ 
+registar condutor "Stela-Ferreira@gmail.com" "Stela Ferreira" "tugatnugtfiplckbdhcuqfzoejsaut" ", 2122, 4950-020 Torre" 1988-12-08 68;
+registar veiculo "YC-23-80" "Carro" "Muito Mau" (55.5, 31.5);
+ 
+login "Grilo Taxi" "oizpetsadtqqe";
+logout;
+
+login "Taxi Independente" "kfqryamzqjtmoejedbqwpnxhpoycz";
+registar veiculo "30-ZB-83" "Helicoptero" "Bom" (90.0, 4.1);
+ logout;
+
+registar condutor "Eliseba_Nunes@alunos.uminho.pt" "Eliseba Nunes" "lxrziiuoemdncgl" ", 2224, 9760-358 Rossio" 1996-04-09 49;
+registar veiculo "70-06-OE" "Helicoptero" "Razoavel" (84.1, 23.8);
+ 
+login "alia_Assuncao@sapo.pt" "ghgouhyaodqlzwgyzigtpqvoeo";
+logout;
+
+registar condutor "EstefanaPereira@hotmail.com" "Estefana Pereira" "tmnqidjotxsi" "Caminho do Pinheiral, 2295, 4920-070 Loivo" 1967-08-13 49;
+registar veiculo "15-21-LG" "Carro" "Bom" (62.4, 95.2);
+ 
+login "Aleta-Cardoso@alunos.uminho.pt" "dxkmhntdgvrcoypvddpaczpzq";
+solicitar (47.2, 34.1);
+solicitar (72.4, 35.4);
+logout;
+
+login "Herenio.Castro@gmail.com" "gysrzibqfjtswqjzeecovp";
+logout;
+
+login "Urbino.Oliveira@hotmail.com" "afkbrirsfuujzsgdxwgzrdaacvkwc";
+alterar disponibilidade ;
+logout;
+
+registar condutor "Teliano.Sousa@sapo.pt" "Teliano Sousa" "vutatkfnjsrkgqltgcom" ", 2080, 3105-456 Marco" 1987-12-19 87 "Comando Taxi";
+
+registar cliente "Anamar_Carneiro@gmail.com" "Anamar Carneiro" "slrjkatutrmcfiondvomyupjmzkm" ", 212, 3475-064 Freimoninho" 1972-06-08 (69.9, 8.1);
+
+login "Taxi Grupos" "jlrpwcpehrlyzbrzbqzfoijq";
+logout;
+
+registar condutor "HermesRibeiro@sapo.pt" "Hermes Ribeiro" "pttzyi" "Rua de Gabu, 1131, 2845-082 Cruz de Pau" 1959-11-27 72;
+registar veiculo "ZT-10-17" "Carro" "Muito Bom" (20.8, 25.2);
+ 
+login "DionildeDomingues@hotmail.com" "ehkdmkoepmuctjhntwuizw";
+logout;
+
+registar condutor "LizieCardoso@alunos.uminho.pt" "Lizie Cardoso" "xftpnfysdcsyldmwfcncjsagcyxire" "Rua Tenente Senica, 1193, 2205-472 Arreciadas" 1955-01-20 47;
+registar veiculo "75-XH-33" "Carro" "Razoavel" (4.8, 28.1);
+ 
+login "Primavera Taxi" "x";
+logout;
+
+registar cliente "aquilaBranco@hotmail.com" "aquila Branco" "bhjqvwzlntq" "Rua da Banda de Musica de Moreira, 1055, 4470-197 Maia" 1956-09-01 (15.8, 25.8);
+
+registar condutor "Afre_Figueiredo@alunos.uminho.pt" "Afre Figueiredo" "vjiqhsqpvkmzothrzoxzrajjsppsch" "Rua Jose Rocha, 1796, 4430-122 Vila Nova de Gaia" 1976-03-28 50;
+registar veiculo "88-96-IP" "Carrinha" "Muito Bom" (57.7, 14.9);
+ 
+registar empresa "Taxi Suco" "yezqniygittrjuzeyxrzefvvbgbfwh";
+
+registar condutor "Bertilde_Assuncao@alunos.uminho.pt" "Bertilde Assuncao" "hjyjuqoasllcxwqke" "Rua Almada Negreiros, 1277, 2865-719 Quinta das Laranjeiras" 1983-06-26 84;
+registar veiculo "87-91-DO" "Carro" "Muito Mau" (95.4, 80.2);
+ 
+login "Roadrunner Taxi" "rkstgjcrmcumiatcrkfevpp";
+registar veiculo "67-73-SD" "Carrinha" "Bom" (96.5, 86.8);
+ registar veiculo "76-BR-21" "Mota" "Bom" (27.5, 68.5);
+ registar veiculo "23-JA-59" "Carro" "Muito Bom" (29.5, 88.9);
+ registar veiculo "KS-22-02" "Carro" "Razoavel" (90.4, 35.3);
+ registar veiculo "61-EL-86" "Carro" "Muito Bom" (17.0, 53.4);
+ registar veiculo "64-90-TZ" "Carro" "Muito Bom" (95.7, 46.2);
+ registar veiculo "32-ZS-56" "Carro" "Razoavel" (4.9, 79.8);
+ registar veiculo "PV-35-99" "Mota" "Muito Mau" (98.6, 51.0);
+ logout;
+
+registar condutor "Airiza.Fernandes@gmail.com" "Airiza Fernandes" "hlhhdqcseredgihxfympypeesuhpd" "Rua Dom Carlos I, 359, 8500-607 Portimao" 1962-09-25 85;
+registar veiculo "WM-19-40" "Helicoptero" "Muito Bom" (12.3, 31.2);
+ 
+registar condutor "Selma.Magalhaes@gmail.com" "Selma Magalhaes" "otiw" "Travessa da Igreja, 1516, 5400-581 Vale de Anta" 1968-11-27 77;
+registar veiculo "39-58-IO" "Carro" "Razoavel" (71.2, 3.3);
+ 
+login "GilmaMota@alunos.uminho.pt" "soeloxoqksakju";
+solicitar (43.6, 76.8);
+logout;
+
+registar condutor "Diva.Pacheco@alunos.uminho.pt" "Diva Pacheco" "iugv" "Rua de Sao Jose, 92, 2830-435 Covas de Coina" 1990-07-26 55;
+registar veiculo "00-KW-94" "Carro" "Mau" (74.5, 63.7);
+ 
+registar condutor "Fani.Abreu@alunos.uminho.pt" "Fani Abreu" "byawrlmhgrgbtzrdodspvd" "Rua do Pelourinho, 80, 4830-336 Lanhoso" 1996-12-01 55;
+registar veiculo "10-AL-07" "Carro" "Bom" (85.7, 15.9);
+ 
+login "Fedra_Pinho@gmail.com" "sxmgm";
+logout;
+
+login "Valerio.Baptista@alunos.uminho.pt" "njdlsdwjvrdbcdtndxvsdqi";
+logout;
+
+login "Carin.Martins@hotmail.com" "ewg";
+logout;
+
+registar empresa "Taxi Worth" "uhaugqzrdyi";
+
+registar cliente "AldenoraBranco@alunos.uminho.pt" "Aldenora Branco" "aw" "Rua Antonio Aleixo, 2002, 8600-382 Lagos" 1967-01-29 (2.1, 46.6);
+
+registar empresa "Sr Taxi" "atjpwbxck";
+
+registar condutor "Aradna.Nogueira@gmail.com" "Aradna Nogueira" "ir" "Rua Antero de Quental, 25, 2775-152 Parede" 1999-06-22 62 "Motor Taxi";
+
+login "Antelmo.Baptista@sapo.pt" "rggynkhlkjedof";
+logout;
+
+registar condutor "Sotero_Henriques@sapo.pt" "Sotero Henriques" "omtfkfz" "Estrada Municipal 572, 362, 2150-262 Sao Caetano" 1980-06-26 69 "Sr Taxi";
+
+registar cliente "LeonardinaRaposo@hotmail.com" "Leonardina Raposo" "ywgoqvlsocvit" ", 1802, 6160-466 Quinta da Ponte" 1998-03-21 (29.3, 96.6);
+
+registar cliente "Lila.Vieira@hotmail.com" "Lila Vieira" "evqpeuaeiseom" "Rua de Baixo, 288, 9500-660 Relva" 1978-12-21 (67.1, 61.8);
+
+login "Jamila_Miranda@sapo.pt" "hdymggxzcnrvh";
+logout;
+
+registar empresa "Comando Taxi" "xkgwctmjzfbkuex";
+
+registar condutor "Inoi_Lopes@gmail.com" "Inoi Lopes" "p" "Rua Orfanato Escola Santa Isabel, 1163, 2635-048 Albarraque" 1967-06-29 80 "Primavera Taxi";
+
+registar cliente "Julinda-Maia@hotmail.com" "Julinda Maia" "npyihpnzesscmamd" "Caminho Doutor Egidio Pinto, 1426, 5050-362 Vilarinho dos Freires" 1977-07-18 (64.0, 8.1);
+
+registar condutor "Emilia.Neves@gmail.com" "Emilia Neves" "qkgdprbrkxotqjoqnrwmqyocacw" ", 327, 3405-306 Regada" 1969-07-25 42;
+registar veiculo "OH-32-89" "Carro" "Razoavel" (42.3, 21.6);
+ 
+login "Taxi Suco" "vjgf";
+logout;
+
+registar condutor "Ubaldo-Anjos@alunos.uminho.pt" "Ubaldo Anjos" "zkvwvrs" "Avenida do Casal de Cabanas, 288, 2734-508 Barcarena" 1964-11-25 30;
+registar veiculo "QG-12-50" "Carro" "Bom" (93.3, 83.0);
+ 
+registar condutor "Frederico-Esteves@alunos.uminho.pt" "Frederico Esteves" "wmf" "Rua do Monte Grande, 841, 7220-503 Santana" 1983-05-03 57;
+registar veiculo "68-KC-29" "Helicoptero" "Bom" (58.6, 41.6);
+ 
+registar condutor "AdolfoBaptista@alunos.uminho.pt" "Adolfo Baptista" "bbzimihhjasflszmbiddn" "Rua das Flores, 958, 2865-356 Fernao Ferro" 1968-08-04 77;
+registar veiculo "DX-96-10" "Helicoptero" "Muito Bom" (4.7, 18.7);
+ 
+registar condutor "Hemeterio_Anjos@alunos.uminho.pt" "Hemeterio Anjos" "flcbfvtehmfejvzyizgu" "Ferragial Arrobas, 395, 7005-846 evora" 1968-12-17 99;
+registar veiculo "EM-03-14" "Carro" "Bom" (78.0, 7.0);
+ 
+login "Taxi Suco" "pffvzflajitjhuiplkwtpdshua";
+logout;
+
+registar condutor "Secundino-Moura@sapo.pt" "Secundino Moura" "tyvgbxjfmysioinjuepkf" "Estrada Ramal das Flores, 57, 2870-667 Alto do Estanqueiro" 1993-08-13 59;
+registar veiculo "22-86-PQ" "Carro" "Bom" (99.6, 23.3);
+ 
+login "Out Taxi" "eu";
+logout;
+
+registar empresa "Taxi Grupos" "qvi";
+
+registar empresa "Roadrunner Taxi" "exbagkfikjvnofhl";
+
+registar cliente "Alex.Brito@hotmail.com" "Alex Brito" "mgossoszjthpjyf" "Rua Roque Ferreira Lobo, 695, 2560-361 Torres Vedras" 1999-11-14 (11.8, 83.0);
+
+login "JanuarioSa@hotmail.com" "ojnuf";
+logout;
+
+registar empresa "Taxi Independente" "lvrtjfnrnt";
+
+login "Jordano_Matias@sapo.pt" "jhjsqoqojnzknwyxtznzdfl";
+solicitar (20.0, 13.2);
+logout;
+
+registar condutor "Adeodato_Gomes@alunos.uminho.pt" "Adeodato Gomes" "kaewkgwubfqcagsnbilisf" "Rua do Progresso, 2248, 7090-263 Viana do Alentejo" 1955-10-10 41 "Talk Taxi";
+
+registar empresa "Taxi e Amigos" "bhnfujtcyjkivrhcnvxag";
+
+registar empresa "Taxi Lideres" "jfhvibeieccgtpvhvepte";
+
+login "UbaldinoFigueiredo@alunos.uminho.pt" "pymbfaoedstrmzipeeggzjgouzduuj";
+alterar disponibilidade ;
+logout;
+
+registar condutor "Simauro-Henriques@alunos.uminho.pt" "Simauro Henriques" "wwcjot" "Caminho das Pontizelas, 400, 4740-612 Rio Tinto" 1990-08-25 53;
+registar veiculo "54-51-CC" "Carro" "Muito Mau" (34.7, 3.6);
+ 
+login "Edmero_Pires@gmail.com" "mvirxwfqjymnzpar";
+solicitar (90.1, 47.4);
+solicitar (74.6, 29.6);
+solicitar (80.8, 98.8);
+solicitar (30.1, 97.7);
+solicitar (34.4, 27.5);
+solicitar (53.4, 39.5);
+logout;
+
+registar condutor "Lorine.Cardoso@sapo.pt" "Lorine Cardoso" "cgljjozisibhxwi" "Travessa Escola C+S 4, 1226, 4535-131 Lourosa" 1955-04-29 17;
+registar veiculo "MB-86-24" "Carro" "Muito Bom" (45.7, 50.4);
+ 
+login "Leandro.Araujo@gmail.com" "ndiwotjozlbbpazzqhq";
+logout;
+
+login "Taxi Grupos" "ycqdjslaueplygnpiugsigwvodd";
+registar veiculo "HZ-41-98" "Carro" "Razoavel" (98.5, 40.4);
+ logout;
+
+login "VitalioReis@sapo.pt" "ertjjnmqjojys";
+logout;
+
+registar cliente "Aide-Assuncao@hotmail.com" "Aide Assuncao" "ssbzwzgrjudkckmnybwyjtpil" "Rua da Rainha Dona Amelia, 1338, 2925-087 Azeitao" 1955-02-07 (1.9, 60.8);
+
+registar condutor "Herberta-Machado@gmail.com" "Herberta Machado" "edgfoldgenc" "Rua alvaro Pires de Miranda, 985, 2415-370 Leiria" 1976-02-05 21 "Taxi Grupos";
+
+login "Enide_Rodrigues@alunos.uminho.pt" "mojepopqhy";
+alterar disponibilidade ;
+logout;
+
+login "Carin.Martins@hotmail.com" "ewg";
+solicitar (96.8, 41.5);
+logout;
+
+login "Agna.Andrade@hotmail.com" "kgynhd";
+logout;
+
+registar empresa "Motor Taxi" "tmy";
+
+registar cliente "Firmino_Borges@alunos.uminho.pt" "Firmino Borges" "xyptsadfibkn" "Rua Antonio Assuncao, 318, 2900-691 Setubal" 1975-12-20 (76.0, 22.6);
+
+login "Fedra_Pinho@gmail.com" "sxmgm";
+logout;
+
+registar condutor "Airton.Soares@alunos.uminho.pt" "Airton Soares" "vpchstbmqlpyihwrvwydlapj" "Estrada Velha de Abraveses, 525, 3510-204 Viseu" 1979-04-16 51 "Primavera Taxi";
+
+login "Tanagra.Jesus@sapo.pt" "zqcjmyin";
+logout;
+
+login "Aide-Assuncao@hotmail.com" "ssbzwzgrjudkckmnybwyjtpil";
+logout;
+
+registar cliente "FilipoSantos@hotmail.com" "Filipo Santos" "yqlxhbx" "Travessa da Rua 4, 142, 5430-532 Valpacos" 1998-11-24 (86.7, 26.5);
+
+registar cliente "Anfiloco.Fernandes@hotmail.com" "Anfiloco Fernandes" "qylcharapkytqvh" "Praca dos Aliados, 42, 2720-029 Amadora" 1998-05-22 (7.0, 98.6);
+
+registar condutor "Heralda-Ramos@sapo.pt" "Heralda Ramos" "mnmpxokzmktcllglill" "Rua 15 de Maio, 215, 4800-887 Sao Torcato" 1965-09-19 32;
+registar veiculo "EQ-97-44" "Carro" "Bom" (94.3, 12.2);
+ 
+login "Primavera Taxi" "x";
+registar veiculo "66-DK-82" "Carrinha" "Bom" (20.7, 45.8);
+ logout;
+
+login "Baldemar-Branco@alunos.uminho.pt" "uj";
+logout;
+
+registar condutor "Miru_Oliveira@sapo.pt" "Miru Oliveira" "pvdcorvtfctizibxqymyniaqixex" "Estrada dos Linhares, 2107, 2705-858 Terrugem" 1967-05-21 38;
+registar veiculo "JK-88-84" "Mota" "Bom" (16.5, 96.5);
+ 
+login "Taxi Parceiro" "kxvpjkkvtobnkekyotbxbfo";
+logout;
+
+login "Sandro.Raposo@alunos.uminho.pt" "eybvddvgptogdhbyuefwdhg";
+solicitar (71.7, 33.2);
+logout;
+
+login "LaurinaMoreira@gmail.com" "ndmlymo";
+logout;
+
+registar condutor "Toledo.Campos@alunos.uminho.pt" "Toledo Campos" "syxoicjppkfjawaefzlpzprpsyea" "Rua Movimento das Forcas Armadas, 1010, 2845-605 Fogueteiro" 1979-05-12 88;
+registar veiculo "52-43-QA" "Mota" "Muito Bom" (0.9, 13.1);
+ 
+login "Afre_Figueiredo@alunos.uminho.pt" "vjiqhsqpvkmzothrzoxzrajjsppsch";
+logout;
+
+registar empresa "Taxi Independente" "zidyfihxzsypfqfvrjxyiukakv";
+
+login "Adamantino.Matias@hotmail.com" "qejvgwsekkfijfdzpjsizovotmh";
+logout;
+
+registar cliente "IdaBarros@alunos.uminho.pt" "Ida Barros" "epcmkckywmxawykxkscmgxgujbt" "Rua das Pedras, 169, 7700-045 Almodovar" 1962-01-25 (22.3, 7.3);
+
+login "Abrao.Leal@gmail.com" "szrytwlyrvhwu";
+solicitar (92.2, 46.8);
+logout;
+
+registar empresa "Redwood Taxi" "rohakhxpbyyxigrdvwaksyg";
+
+login "alia.Campos@hotmail.com" "itophankoiha";
+solicitar (22.4, 34.4);
+solicitar (81.2, 47.3);
+solicitar (11.0, 9.4);
+solicitar (80.6, 67.2);
+logout;
+
+login "Adiel_Vieira@gmail.com" "xm";
+logout;
+
+registar empresa "Redwood Taxi" "jnzbmt";
+
+login "Fedra_Pinho@gmail.com" "sxmgm";
+solicitar (18.9, 72.2);
+solicitar (34.4, 83.1);
+solicitar (30.9, 46.5);
+logout;
+
+login "Taxi Suco" "yezqniygittrjuzeyxrzefvvbgbfwh";
+logout;
+
+login "Miru_Oliveira@sapo.pt" "pvdcorvtfctizibxqymyniaqixex";
+alterar disponibilidade ;
+logout;
+
+login "Israel_Sousa@hotmail.com" "xqieiwgpvoxpkfqcjx";
+logout;
+
+login "Jacqueline.Mendes@alunos.uminho.pt" "mtdlamatlugsjtoogajmf";
+solicitar (38.0, 66.0);
+logout;
+
+login "KevinTorres@gmail.com" "gardwufixh";
+logout;
+
+login "AdrianaDomingues@gmail.com" "ywuwfqltuzn";
+logout;
+
+login "BerardoFerreira@gmail.com" "utceed";
+logout;
+
+login "Gervasio_Ramos@alunos.uminho.pt" "tokkvtlnskgvzwghkg";
+alterar disponibilidade ;
+logout;
+
+registar cliente "Jitendra_Monteiro@alunos.uminho.pt" "Jitendra Monteiro" "ujyzlpbrkwueehykvygxemqjb" "Largo Feira dos Dez, 105, 4535-528 Lourosa" 1998-12-10 (61.5, 80.9);
+
+login "Redwood Taxi" "jnzbmt";
+logout;
+
+registar cliente "Helenico_Garcia@alunos.uminho.pt" "Helenico Garcia" "gyrodvxuda" "Travessa dos Domingos, 853, 2530-634 Ribamar" 1967-12-18 (87.7, 95.7);
+
+login "atila_Jesus@gmail.com" "jjlionh";
+logout;
+
+login "Ursiao-Henriques@sapo.pt" "ejprenyxfdipbtwwtmnvmew";
+alterar disponibilidade ;
+logout;
+
+login "Talk Taxi" "tuttjtzsdgheujucuvckrclsa";
+registar veiculo "UP-05-07" "Mota" "Bom" (56.0, 55.2);
+ logout;
+
+login "Primavera Taxi" "eyqsk";
+logout;
+
+login "KevinTorres@gmail.com" "gardwufixh";
+alterar disponibilidade ;
+logout;
+
+registar condutor "Aventino_Lourenco@gmail.com" "Aventino Lourenco" "uaxxlknhtxcjqskjdswp" "Travessa Manuel de Sousa Casal, 2496, 4435-508 Rio Tinto" 1967-02-04 72;
+registar veiculo "67-NI-62" "Carro" "Bom" (16.0, 33.5);
+ 
+login "Gumersinda-Morais@alunos.uminho.pt" "rrivssaxhnaibzqgnzmaxhzzm";
+alterar disponibilidade ;
+logout;
+
+registar condutor "Eliano_Baptista@sapo.pt" "Eliano Baptista" "znnnwqgyclwaaimxwqmchrmclcsifo" "Rua da Fabrica, 1268, 3060-540 Sepins" 1977-01-20 16;
+registar veiculo "93-VN-90" "Carro" "Mau" (28.0, 60.1);
+ 
+registar condutor "Evangelino_Correia@sapo.pt" "Evangelino Correia" "czfcg" "Rua Infantario, 1741, 2790-084 Carnaxide" 1955-08-25 46;
+registar veiculo "75-50-RR" "Helicoptero" "Muito Mau" (58.4, 45.7);
+ 
+registar condutor "Urania.Cardoso@sapo.pt" "Urania Cardoso" "pvekjpdeakwmvorjfn" "Itinerario Principal 2, 1695, 7780-100 Castro Verde" 1963-12-10 74;
+registar veiculo "95-25-MZ" "Carro" "Razoavel" (38.1, 18.6);
+ 
+login "Eneias-Simoes@hotmail.com" "knhcmuutfatwdbtmgujbmu";
+alterar disponibilidade ;
+alterar disponibilidade ;
+logout;
+
+registar condutor "Leila.Goncalves@sapo.pt" "Leila Goncalves" "pax" "Rua Antonio Santos Vieira, 1912, 3840-355 Soza" 1965-11-28 53;
+registar veiculo "PT-76-62" "Carrinha" "Muito Bom" (57.5, 31.6);
+ 
+registar empresa "Redwood Taxi" "kek";
+
+login "Roadrunner Taxi" "exbagkfikjvnofhl";
+logout;
+
+registar condutor "Argentino-Borges@alunos.uminho.pt" "Argentino Borges" "nltposwiaflkp" "Rua Almirante Gago Coutinho, 2028, 8200-089 Albufeira" 1974-07-15 82;
+registar veiculo "TP-20-56" "Mota" "Muito Bom" (61.9, 88.4);
+ 
+login "TeofiloCoelho@sapo.pt" "heqdpumjhlkpnjbkljtbiefpokqlrv";
+logout;
+
+registar cliente "Marlene-Gaspar@gmail.com" "Marlene Gaspar" "lwgegtwnwvcblpjytlxuynjzbxcnb" "Rua dos Foros de Amora, 3, 2845-004 Cruz de Pau" 1989-01-19 (42.0, 24.6);
+
+registar condutor "Alano-Moura@alunos.uminho.pt" "Alano Moura" "beqqunpocpgyglbxdbm" "Estrada da Falagueira, 876, 2650-265 Amadora" 1958-10-13 81;
+registar veiculo "90-HP-59" "Carro" "Muito Bom" (51.4, 39.6);
+ 
+registar condutor "Lauriano.Vaz@hotmail.com" "Lauriano Vaz" "yo" "Rua da Eira, 2499, 6225-113 Casegas" 1967-03-12 22;
+registar veiculo "67-QE-56" "Carro" "Razoavel" (84.8, 32.3);
+ 
+registar condutor "Francisco_Pacheco@alunos.uminho.pt" "Francisco Pacheco" "traupolkcbitojmk" "Travessa das Portas Fronhas, 1399, 4415-696 Carvalho" 1972-03-09 30 "Primavera Taxi";
+
+registar condutor "Mauro-Fonseca@alunos.uminho.pt" "Mauro Fonseca" "dknmqlvmpprge" "Rua Adelino da Palma Carlos, 1540, 4450-593 Matosinhos" 1976-02-25 34;
+registar veiculo "XR-51-28" "Carro" "Bom" (97.3, 67.8);
+ 
+registar condutor "Lila-Nogueira@sapo.pt" "Lila Nogueira" "rrzhgdalshnvfzxsslbtdzwbwi" "Rua Principal, 1515, 2645-361 Bicesse" 1996-07-06 51;
+registar veiculo "KW-82-88" "Carro" "Muito Bom" (28.1, 9.1);
+ 

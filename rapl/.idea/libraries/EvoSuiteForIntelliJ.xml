@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="EvoSuiteForIntelliJ">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/EvoSuiteForIntelliJ.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/antlr-4.7-intellij-1.8.4-version-complete.jar!/" />
+      <root url="jar://$USER_HOME$/evosuite-standalone-runtime-1.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91c03209-7cde-477c-9d79-75e23c6e5403" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CloverPlugin" class="com.atlassian.clover.idea.config.IdeaCloverConfig">
+    <includePassedTestCoverageOnly>true</includePassedTestCoverageOnly>
+    <useGeneratedInitString>true</useGeneratedInitString>
+    <manualInitString null="true" />
+    <showTooltips>true</showTooltips>
+    <failedCoveredHighlight>-11513856</failedCoveredHighlight>
+    <periodicRefresh>false</periodicRefresh>
+    <languageLevel>9 - modules.</languageLevel>
+    <instrumentLambda class="com.atlassian.clover.cfg.instr.java.LambdaInstrumentation">NONE</instrumentLambda>
+    <testCaseLayout class="com.atlassian.clover.idea.config.TestCaseLayout">TEST_CASES</testCaseLayout>
+    <autoScrollFromSource>false</autoScrollFromSource>
+    <coveredHighlight>-16756736</coveredHighlight>
+    <outOfDateStripe>-256</outOfDateStripe>
+    <includes null="true" />
+    <excludes null="true" />
+    <alwaysExpandTestClasses>false</alwaysExpandTestClasses>
+    <autoViewInCloudReport>true</autoViewInCloudReport>
+    <flushPolicy>0</flushPolicy>
+    <filteredHighlight>-11513776</filteredHighlight>
+    <outOfDateHighlight>-16777201</outOfDateHighlight>
+    <showInline>true</showInline>
+    <dumpInstrumentedSources>false</dumpInstrumentedSources>
+    <hideFullyCovered>false</hideFullyCovered>
+    <autoRefresh>true</autoRefresh>
+    <modelScope class="com.atlassian.clover.idea.util.ModelScope">APP_CLASSES_ONLY</modelScope>
+    <coveredStripe>-16711936</coveredStripe>
+    <highlightCovered>true</highlightCovered>
+    <viewCoverage>true</viewCoverage>
+    <notCoveredHighlight>-11534336</notCoveredHighlight>
+    <relativeInitString>false</relativeInitString>
+    <failedCoveredStripe>-14336</failedCoveredStripe>
+    <testViewScope class="com.atlassian.clover.idea.config.TestViewScope">GLOBAL</testViewScope>
+    <showGutter>true</showGutter>
+    <alwaysCollapseTestClasses>false</alwaysCollapseTestClasses>
+    <notCoveredStripe>-65536</notCoveredStripe>
+    <autoScroll>true</autoScroll>
+    <calculateTestCoverage>true</calculateTestCoverage>
+    <autoRefreshInterval>2000</autoRefreshInterval>
+    <generatedInitString>$PROJECT_DIR$/.clover/coverage.db</generatedInitString>
+    <regexpContexts class="java.util.ArrayList" />
+    <flushInterval>5000</flushInterval>
+    <flattenPackages>false</flattenPackages>
+    <viewIncludeAnnotation>true</viewIncludeAnnotation>
+    <loadPerTestData>true</loadPerTestData>
+    <showErrorMarks>true</showErrorMarks>
+    <buildWithClover>true</buildWithClover>
+    <lastProjectConfigTabSelected>0</lastProjectConfigTabSelected>
+    <contextFilterSpec />
+    <instrumentTests>true</instrumentTests>
+    <span>0</span>
+    <projectRebuild class="com.atlassian.clover.idea.config.ProjectRebuild">ASK</projectRebuild>
+    <showSummaryInToolbar>true</showSummaryInToolbar>
+    <filteredStripe>-4144960</filteredStripe>
+    <cloudReportIncludeSubpkgs>false</cloudReportIncludeSubpkgs>
+    <enabled>true</enabled>
+    <showSummaryInToolwindow>true</showSummaryInToolwindow>
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/projecto$All_Features_in__best_tests.ic" NAME="All Features in: best-tests Coverage Results" MODIFIED="1542122115589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/projecto$best_tests_in_teste.ic" NAME="best-tests in teste Coverage Results" MODIFIED="1542122611029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/projecto$Bike_ESTest.ic" NAME="Bike_ESTest Coverage Results" MODIFIED="1542122217048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/projecto$All_in_teste.ic" NAME="All in teste Coverage Results" MODIFIED="1542584232599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/projecto$Trip_ESTest.ic" NAME="Trip_ESTest Coverage Results" MODIFIED="1542122423114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/projecto$All_Features_in__evo.ic" NAME="All Features in: evo Coverage Results" MODIFIED="1542053467000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/projecto$Client_ESTest.ic" NAME="Client_ESTest Coverage Results" MODIFIED="1542122374630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/projecto$evo_in_teste.ic" NAME="evo in teste Coverage Results" MODIFIED="1542129400286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/projecto$Driver_ESTest.ic" NAME="Driver_ESTest Coverage Results" MODIFIED="1542212300834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/projecto$UMeR_ESTest.ic" NAME="UMeR_ESTest Coverage Results" MODIFIED="1542130043540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/projecto$Car_ESTest.ic" NAME="Car_ESTest Coverage Results" MODIFIED="1542122350441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/projecto$evo_in_teste__1_.ic" NAME="evo in teste (1) Coverage Results" MODIFIED="1542146137407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>evo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/projecto$teste_in_teste.ic" NAME="teste in teste Coverage Results" MODIFIED="1542053479700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/projecto$tests_in_teste.ic" NAME="tests in teste Coverage Results" MODIFIED="1542121320126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/projecto$Client_ESTest_test24.ic" NAME="Client_ESTest.test24 Coverage Results" MODIFIED="1542120853542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/projecto$ATS_ESTest.ic" NAME="ATS_ESTest Coverage Results" MODIFIED="1542121296842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="170" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1142228741">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.42" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="g4" value="1" />
+          <entry key="java" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ANTLR v4 grammar file" value="1" />
+          <entry key="JAVA" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="g4" value="194" />
+          <entry key="java" value="55" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ANTLR v4 grammar file" value="194" />
+          <entry key="JAVA" value="55" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1179008340">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="23" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="3" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.165" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.39" value="2" />
+          <entry key="project.open.time.40" value="2" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.44" value="2" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.opened" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="g4" value="2" />
+          <entry key="java" value="156" />
+          <entry key="tokens" value="2" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ANTLR v4 grammar file" value="2" />
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="161" />
+          <entry key="Lightning" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="UNKNOWN" value="1" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="g4" value="557" />
+          <entry key="java" value="5661" />
+          <entry key="txt" value="3" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ANTLR v4 grammar file" value="557" />
+          <entry key="JAVA" value="5661" />
+          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/antlr4/ATS.g4">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" selection-end-column="27" />
+              <folding>
+                <element signature="e#161#1935#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/ATS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/log.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="2494" column="150" selection-start-line="2494" selection-start-column="150" selection-end-line="2494" selection-end-column="150" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>driverp</find>
+      <find>alldrivers</find>
+      <find>changedriverava</find>
+      <find>tota</find>
+      <find>gettotal</find>
+      <find>getto</find>
+      <find>viagem</find>
+      <find>addtrip</find>
+      <find>addtr</find>
+      <find>addq</find>
+      <find>umer.get</find>
+      <find>unquoute</find>
+      <find>addve</find>
+      <find>registerveh</find>
+      <find>regem</find>
+      <find>egAut</find>
+      <find>regcond</find>
+      <find>addvehi</find>
+      <find>newspecifictrip</find>
+      <find>newtrips</find>
+      <find>newtripsp</find>
+      <find>newtrip</find>
+      <find>solicitare</find>
+      <find>solicitar espe</find>
+      <find>recviaj</find>
+      <find>1976-</find>
+      <find>1976-02-30</find>
+      <find>viajar</find>
+      <find>dotripqueue</find>
+      <find>1956-02-30</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/.evosuite/tmp_2018_11_12_20_12_13/tests</dir>
+      <dir>$PROJECT_DIR$/.evosuite/tmp_2018_11_12_20_12_13/seeds</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.evosuite/tmp_2018_11_12_20_12_13/tests/Bike_ESTest.java" />
+        <option value="$PROJECT_DIR$/.evosuite/tmp_2018_11_12_20_12_13/tests/Car_ESTest.java" />
+        <option value="$PROJECT_DIR$/.evosuite/tmp_2018_11_12_20_12_13/tests/Trip_ESTest.java" />
+        <option value="$PROJECT_DIR$/.evosuite/tmp_2018_11_12_20_12_13/tests/Client_ESTest.java" />
+        <option value="$PROJECT_DIR$/.evosuite/tmp_2018_11_12_20_12_13/tests/UMeR_ESTest.java" />
+        <option value="$PROJECT_DIR$/src/evo/Bike_ESTest.java" />
+        <option value="$PROJECT_DIR$/src/evo/Car_ESTest.java" />
+        <option value="$PROJECT_DIR$/src/evo/UMeR_ESTest.java" />
+        <option value="$PROJECT_DIR$/src/evo/Client_ESTest.java" />
+        <option value="$PROJECT_DIR$/src/testes/evo/jtest/VehicleTest.java" />
+        <option value="$PROJECT_DIR$/src/testes/jtest/VehicleTest.java" />
+        <option value="$PROJECT_DIR$/src/java/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/java/Client.java" />
+        <option value="$PROJECT_DIR$/src/testes/evo/Client_ESTest.java" />
+        <option value="$PROJECT_DIR$/src/testes/evo/CompanyTest.java" />
+        <option value="$PROJECT_DIR$/src/java/Driver.java" />
+        <option value="$PROJECT_DIR$/src/java/Trip.java" />
+        <option value="$PROJECT_DIR$/src/testes/evo/Trip_ESTest.java" />
+        <option value="$PROJECT_DIR$/src/testes/evo/Driver_ESTest.java" />
+        <option value="$PROJECT_DIR$/src/java/UMeR.java" />
+        <option value="$PROJECT_DIR$/src/java/GUI.java" />
+        <option value="$PROJECT_DIR$/src/testes/evo/Vehicle_ESTest.java" />
+        <option value="$PROJECT_DIR$/src/testes/evo/UMeR_ESTest.java" />
+        <option value="$PROJECT_DIR$/target/generated-sources/ATSParser.java" />
+        <option value="$PROJECT_DIR$/src/java/ATS.java" />
+        <option value="$PROJECT_DIR$/src/testes/evo/ATSBaseListener_ESTest.java" />
+        <option value="$PROJECT_DIR$/src/java/ATSListener.java" />
+        <option value="$PROJECT_DIR$/src/java/ATSBaseListener.java" />
+        <option value="$PROJECT_DIR$/src/java/ATSLexer.java" />
+        <option value="$PROJECT_DIR$/src/java/ATSParser.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/antlr4/ATS.g4" />
+        <option value="$PROJECT_DIR$/log.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="teste" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="teste" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="width" value="684" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="projecto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projecto" type="bbb3b172:PsiDirectoryNodeWrapper" />
+            </path>
+            <path>
+              <item name="projecto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projecto" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="src" type="bbb3b172:PsiDirectoryNodeWrapper" />
+            </path>
+            <path>
+              <item name="projecto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projecto" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="src" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="java" type="bbb3b172:PsiDirectoryNodeWrapper" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="$PROJECT_DIR$/src/antlr4/ATS.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/src/antlr4/ATS.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/src/antlr4/ATS.g4::/gen-visitor" value="false" />
+    <property name="$PROJECT_DIR$/src/antlr4/ATS.g4::/lib-dir" value="$PROJECT_DIR$/src/antlr4" />
+    <property name="$PROJECT_DIR$/src/antlr4/ATS.g4::/output-dir" value="$PROJECT_DIR$/src/" />
+    <property name="$PROJECT_DIR$/src/antlr4/ATS.g4::/package" value="java" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="JAVA_HOME" value="/usr/lib/jvm/java-8-oracle" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546187169062" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="cores_evosuite_param" value="2" />
+    <property name="evosuite_gui_dialog_height" value="288" />
+    <property name="evosuite_gui_dialog_width" value="538" />
+    <property name="evosuite_jar_location" value="$USER_HOME$/evosuite-1.0.6.jar" />
+    <property name="execution_mode" value="MVN" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/testes/evo" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/clover-idea-4.3.1.jar!/" />
+    <property name="memory_evosuite_param" value="8000" />
+    <property name="mvn_location" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="target_folder_evosuite_param" value="src/evo" />
+    <property name="time_evosuite_param" value="10" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+      <recent name="jtest" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/testes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GUI">
+    <configuration name="ATS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ATS" />
+      <module name="teste" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI" />
+      <module name="teste" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in teste" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="teste" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <RunnerSettings RunnerId="Clover Optimizing Runner IDEA 13+">
+        <option name="discardSnapshots" value="false" />
+        <option name="compilesBeforeStaleSnapshot" value="10" />
+        <option name="minimize" value="true" />
+        <option name="reorder" value="FAILFAST" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UMeR_ESTest.addRating" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="teste" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UMeR_ESTest" />
+      <option name="METHOD_NAME" value="addRating" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UMeR_ESTest.doTripQueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="teste" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UMeR_ESTest" />
+      <option name="METHOD_NAME" value="doTripQueue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UMeR_ESTest.doTripQueue1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="teste" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UMeR_ESTest" />
+      <option name="METHOD_NAME" value="doTripQueue1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="teste [test]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+                <option value="test" />
+                <option value="org.pitest:pitest-maven:mutationCoverage" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.All in teste" />
+      <item itemvalue="Maven.teste [test]" />
+      <item itemvalue="JUnit.UMeR_ESTest.addRating" />
+      <item itemvalue="Application.GUI" />
+      <item itemvalue="JUnit.UMeR_ESTest.doTripQueue" />
+      <item itemvalue="JUnit.UMeR_ESTest.doTripQueue1" />
+      <item itemvalue="Application.ATS" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GUI" />
+        <item itemvalue="Application.ATS" />
+        <item itemvalue="JUnit.UMeR_ESTest.doTripQueue1" />
+        <item itemvalue="JUnit.UMeR_ESTest.doTripQueue" />
+        <item itemvalue="JUnit.UMeR_ESTest.addRating" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91c03209-7cde-477c-9d79-75e23c6e5403" name="Default Changelist" comment="" />
+      <created>1539556897864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539556897864</updated>
+      <workItem from="1539556904424" duration="1183000" />
+      <workItem from="1539591986719" duration="90000" />
+      <workItem from="1539629928688" duration="36000" />
+      <workItem from="1539630878673" duration="577000" />
+      <workItem from="1540246810602" duration="31000" />
+      <workItem from="1542042880052" duration="423000" />
+      <workItem from="1542046327834" duration="5225000" />
+      <workItem from="1542111522736" duration="434000" />
+      <workItem from="1542118543698" duration="4320000" />
+      <workItem from="1542123168602" duration="138000" />
+      <workItem from="1542123353041" duration="3289000" />
+      <workItem from="1542127590363" duration="2817000" />
+      <workItem from="1542145924507" duration="10621000" />
+      <workItem from="1542206266653" duration="6488000" />
+      <workItem from="1542305627786" duration="201000" />
+      <workItem from="1542309643279" duration="1658000" />
+      <workItem from="1542318342240" duration="8817000" />
+      <workItem from="1542574385840" duration="561000" />
+      <workItem from="1542581749841" duration="3120000" />
+      <workItem from="1542628681003" duration="6470000" />
+      <workItem from="1542640290544" duration="3454000" />
+      <workItem from="1543941548855" duration="1171000" />
+      <workItem from="1545419588871" duration="807000" />
+      <workItem from="1545420457013" duration="101000" />
+      <workItem from="1545491776496" duration="721000" />
+      <workItem from="1545929101010" duration="233000" />
+      <workItem from="1546185427581" duration="1757000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_teste - 2018.11.18 at 21h 01m 29s.xml">
+      <configuration name="All in teste" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_teste - 2018.11.18 at 23h 07m 53s.xml">
+      <configuration name="All in teste" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_teste - 2018.11.18 at 23h 16m 34s.xml">
+      <configuration name="All in teste" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_teste - 2018.11.18 at 23h 22m 50s.xml">
+      <configuration name="All in teste" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_teste - 2018.11.18 at 23h 30m 27s.xml">
+      <configuration name="All in teste" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_teste - 2018.11.18 at 23h 31m 19s.xml">
+      <configuration name="All in teste" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_teste - 2018.11.18 at 23h 37m 36s.xml">
+      <configuration name="All in teste" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_teste - 2018.12.21 at 19h 22m 42s.xml">
+      <configuration name="All in teste" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_teste - 2018.12.21 at 19h 28m 25s.xml">
+      <configuration name="All in teste" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_teste - 2018.12.22 at 15h 29m 13s.xml">
+      <configuration name="All in teste" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="65618000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1368" height="743" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.25075758" />
+      <window_info id="Test Runs" order="7" weight="0.32954547" />
+      <window_info id="Cloverage" order="8" weight="0.32954547" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32885906" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Log Viewer" order="7" weight="0.32903227" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49848485" weight="0.26174498" />
+      <window_info anchor="bottom" id="Tool Output" order="9" weight="0.32903227" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50151515" side_tool="true" weight="0.2629032" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32885906" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="12" weight="0.32903227" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="15" weight="0.32903227" />
+      <window_info anchor="bottom" id="SOQL Query" order="16" weight="0.32903227" />
+      <window_info anchor="bottom" id="EvoSuite" order="17" weight="0.32903227" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.2" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32954547" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.32954547" />
+      <window_info anchor="right" id="JSF" order="10" />
+      <window_info anchor="right" id="CDI" order="11" weight="0.32954547" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.225" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32903227" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32903227" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Log Viewer" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49848485" weight="0.2629032" />
+      <window_info anchor="bottom" id="Tool Output" order="9" weight="0.32903227" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50151515" side_tool="true" weight="0.2629032" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32903227" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="12" weight="0.32903227" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="15" weight="0.32903227" />
+      <window_info anchor="bottom" id="SOQL Query" order="16" weight="0.32903227" />
+      <window_info anchor="bottom" id="EvoSuite" order="17" weight="0.32903227" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.2" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32954547" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.32954547" />
+      <window_info anchor="right" id="JSF" order="10" />
+      <window_info anchor="right" id="CDI" order="11" weight="0.32954547" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/.evosuite/tmp_2018_11_12_20_12_13/tests/Bike_ESTest.java</url>
+          <line>37</line>
+          <properties class="Bike_ESTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/.evosuite/tmp_2018_11_12_20_12_13/tests/Car_ESTest.java</url>
+          <line>19</line>
+          <properties class="Car_ESTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testes/jtest/VehicleTest.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.evosuite/project_info.xml" />
+    <entry file="file://$PROJECT_DIR$/src/evo/Client_ESTest_scaffolding.java" />
+    <entry file="file://$PROJECT_DIR$/src/evo/Bike_ESTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/evo/Car_ESTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/evo/Vehicle_ESTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/java/CustomProbabilisticDistribution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/DeviationComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/evo/Client_ESTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/evo/Trip_ESTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/evo/UMeR_ESTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/testes/jtest/VehicleTest.java" />
+    <entry file="jar://$USER_HOME$/evosuite-standalone-runtime-1.0.6.jar!/org/evosuite/runtime/vnet/NonFunctionalRequirementRule.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/Bike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="41" column="7" lean-forward="true" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testes/evo/User_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="176" column="57" lean-forward="true" selection-start-line="176" selection-start-column="36" selection-end-line="176" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testes/evo/Bike_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="20" column="58" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testes/evo/Helicopter_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1118">
+          <caret line="20" column="74" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testes/evo/MoneyComparatorC_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/MoneyComparatorC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/Helicopter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/Van.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testes/evo/Driver_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="535" column="26" selection-start-line="535" selection-end-line="536" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testes/evo/Car_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="22" column="6" selection-start-line="20" selection-start-column="5" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testes/evo/Vehicle_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="758" column="37" lean-forward="true" selection-start-line="758" selection-start-column="37" selection-end-line="758" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testes/evo/Trip_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="1679" column="27" selection-start-line="1679" selection-end-line="1680" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/GUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="1172" column="32" selection-start-line="1172" selection-start-column="17" selection-end-line="1172" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testes/evo/UMeR_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3330">
+          <caret line="250" selection-start-line="250" selection-end-line="250" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testes/evo/Client_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4815">
+          <caret line="340" selection-start-line="340" selection-end-line="340" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/ATSParser.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/time/LocalDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="399" selection-start-line="399" selection-end-line="399" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/time/format/DateTimeFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="1948" selection-start-line="1948" selection-end-line="1948" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/Trip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2625">
+          <caret line="201" column="30" selection-start-line="201" selection-start-column="18" selection-end-line="201" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="203" column="8" selection-start-line="203" selection-start-column="8" selection-end-line="203" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1605">
+          <caret line="119" column="23" selection-start-line="119" selection-start-column="18" selection-end-line="119" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3270">
+          <caret line="256" column="21" selection-start-line="256" selection-start-column="16" selection-end-line="256" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testes/evo/ATSBaseListener_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="198" column="60" selection-start-line="198" selection-start-column="60" selection-end-line="198" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5205">
+          <caret line="384" column="11" selection-start-line="384" selection-start-column="7" selection-end-line="384" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/ATS.tokens">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/ATSListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testes/evo/CompanyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.clover/coverage.db" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/ATS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/antlr4/ATS.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" selection-end-column="27" />
+          <folding>
+            <element signature="e#161#1935#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/ATSParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="398" selection-start-line="398" selection-end-line="398" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/ATSLexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="81" column="11" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/ATSBaseListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/UMeR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="680" selection-start-line="680" selection-end-line="680" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="2494" column="150" selection-start-line="2494" selection-start-column="150" selection-end-line="2494" selection-end-column="150" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Clover IDEA Plugin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>teste</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>EvoSuiteForIntelliJ</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
